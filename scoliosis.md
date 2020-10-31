@@ -19,3 +19,12 @@ Bracing the back helps reduce the risk of curve progression and the need for sur
 **(Choice C)** MRI of the spine can evaluate for congenital or neuromuscular causes of scoliosis if x-ray of the spine reveals concerning vertebral anomalies (eg, wedged or hemi-vertebrae, vertebral lucency), not seen in this case.
 
 **(Choice D)** Although idiopathic scoliosis may have a hereditary component, genetic testing is expensive and unnecessary as x-ray determines diagnosis and management. This patient does not have scoliosis based on her Cobb angle and does not need further testing.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/scoliosis.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=scoliosis.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

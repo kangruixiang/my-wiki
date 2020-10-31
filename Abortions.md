@@ -55,3 +55,12 @@ At 37 weeks gestation, this patient has a blood pressure of >160/110 mm Hg, prot
 This patient has **preeclampsia** based on a new onset of **hypertension**, pulmonary edema, and **hyperreflexia** (ie, end-organ damage). Although preeclampsia typically occurs during pregnancy, it can also occur up to 12 weeks postpartum. Preeclampsia is associated with vascular endothelial injury that leads to increased vascular permeability and a decrease in capillary colloid pressure. It is also associated with arterial vasospasm that increases capillary hydrostatic pressure. The result is third-spacing of fluid into surrounding tissues that causes **peripheral edema**, cerebral edema (eg, headaches, visual changes), and pulmonary edema. **Pulmonary edema** (eg, dyspnea, hypoxemia, decreased breath sounds) as a complication of preeclampsia is more common in the **postpartum** period.
 
 Treatment of postpartum preeclampsia includes seizure prophylaxis with magnesium sulfate and blood pressure control. Patients with associated pulmonary edema and fluid overload may require fluid restriction, oxygen support, and diuretics.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Abortions.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Abortions.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

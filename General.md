@@ -219,3 +219,12 @@ The diagnosis of GBS is largely clinical, but suspicion is supported by  charact
 <!-- diabetic autonomic neuropathy is -->
 
 This patient most likely has **overflow urinary incontinence** (OUI) due to **diabetic autonomic neuropathy** (DAN). In patients with longstanding diabetes mellitus, microvascular  damage often leads to neuropathy affecting the autonomic nervous  system. Autonomic parasympathetic innervation controls contraction of  the detrusor muscle during urination; **impaired detrusor muscle contraction** due to DAN or other autonomic nerve injury (eg, spinal cord trauma, multiple sclerosis) leads to **urinary retention**, elevated intravesicular pressure, and eventually OUI. This patient's orthostatic hypotension provides additional evidence of autonomic impairment due to DAN.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/General.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=General.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

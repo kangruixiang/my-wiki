@@ -17,3 +17,12 @@ Congenital cytomegalovirus and toxoplasmosis can also present with hepatosplenom
 Congenital herpes simplex virus (HSV) occurs after primary maternal HSV infection during pregnancy and can present with hydrops fetalis and fetal demise. Ascending HSV infection contracted during labor and delivery is characterized by vesicular lesions, meningitis, or disseminated disease. This infant has none of these features.
 
 Although most neonates with congenital syphilis are initially asymptomatic, many develop hepatomegaly, jaundice, and rhinitis. A rash may be present but is typically maculopapular, not purpuric. Cardiac and ocular abnormalities are not seen.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/rubella.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=rubella.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

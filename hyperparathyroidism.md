@@ -37,3 +37,12 @@ Patients with PHPT are often erroneously advised to  restrict calcium and vitami
 Nuclear scintigraphy is used to identify the location of a parathyroid  adenoma or hyperplasia prior to surgery. However, for patients in whom  surgery is not indicated, scintigraphy would not change management and  is unnecessary.
 
 Although hyperparathyroidism is a component of certain multiple  endocrine neoplasia (MEN) syndromes, these conditions are rare and  screening is not indicated in the absence of additional symptoms or a  family history of MEN.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/hyperparathyroidism.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=hyperparathyroidism.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

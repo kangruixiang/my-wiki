@@ -19,3 +19,12 @@ Approximately 60% of patients with untreated Lyme disease develop Lyme arthritis
 This patient's knee joint effusion, minimal pain, no fever, and recent tick bite raise strong suspicion for **Lyme arthritis**.  Although most cases eventually resolve after years, patients are at risk for persistent or recurrent arthritis with joint damage.  Therefore, treatment with a **28-day** course of oral **doxycycline** or **amoxicillin** is recommended.
 
 In the past, doxycycline was not generally used to treat Lyme disease in patients age <8 due to the risk of tooth discoloration, but the American Academy of Pediatrics now recommends ≤21-day course of doxycycline as first-line treatment for late Lyme disease.  Doxycycline is preferred due to better penetration into the CNS (eradicates organisms lodged there) and excellent efficacy against coinfecting, tick-transmitted pathogens (eg, _Anaplasma phagocytophilum_).  Patients are also advised to rest and avoid high-impact activities until all symptoms resolve to reduce the risk of additional joint damage **(Choice C)**.  More than 90% of patients are cured after oral antibiotic therapy.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Lyme.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Lyme.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

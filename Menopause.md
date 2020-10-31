@@ -37,3 +37,12 @@ Major contraindications to MHT (even in younger women) include established CHD, 
 **Tamoxifen** is a selective estrogen receptor modulator that is used as an adjuvant therapy in patients with nonmetastatic, estrogen receptor-positive breast cancer and for breast cancer prevention in high-risk women (eg, atypical hyperplasia, age >35 with history of lobular carcinoma in situ).
 
 Tamoxifen acts as an estrogen receptor agonist in the endometrium and is associated with an increased risk of **endometrial hyperplasia/cancer** and **uterine sarcoma** in postmenopausal women. In premenopausal women, tamoxifen is associated with endometrial polyp development, a typically benign cause of abnormal uterine bleeding. In asymptomatic women taking tamoxifen (such as this patient), **regular screening has no proven benefit** in detecting endometrial cancer or uterine sarcoma. Therefore, patients on tamoxifen require **evaluation only if symptoms develop** (eg, abnormal uterine bleeding, postmenopausal bleeding).
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Menopause.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Menopause.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

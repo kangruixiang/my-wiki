@@ -18,3 +18,12 @@ However, comprehensive evaluation for possible ADHD includes obtaining informati
 **Parent-child behavioral therapy** improves problem behaviors and parent-child relationships. It involves teaching parents to consistently implement effective behavioral  techniques (eg, rewards and nonpunitive consequences to shape behavior,  calm limit setting, structured daily schedules, minimizing of  distractions). Behavioral interventions can also be used in patients  who do not meet full ADHD criteria or in combination with medication for school-age children and adolescents with ADHD.
 
 Children with **persistent symptoms** despite adequate treatment with the initial medication (methylphenidate) **and/or intolerable side effects** can be treated with an **alternate ADHD medication**, including other stimulants (eg, mixed amphetamine salts).  No tapering or washout is needed, and the patient can be switched immediately from one stimulant to another.  More than half of children who are inadequate responders or have side effects with one type of stimulant will have improved efficacy and tolerability with another.  The norepinephrine reuptake inhibitor atomoxetine and an alpha-2 adrenergic agonist are nonstimulant options.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/ADHD.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=ADHD.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

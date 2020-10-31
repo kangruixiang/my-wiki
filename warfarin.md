@@ -16,3 +16,12 @@ Patients on warfarin with intracranial hemorrhage require urgent **warfarin reve
   Fresh frozen plasma is considered the second-line therapy for replacing vitamin K-dependent clotting factors due to the large volume (often >2 L) required and the delay for blood compatibility tests.  Fresh frozen plasma is typically used when prothrombin complex concentrate is unavailable.
 
   Intravenous idarucizumab is a monoclonal antibody used to reverse the anticoagulant dabigatran, a direct thrombin inhibitor.  This patient was on warfarin, not dabigatran; idarucizumab would be ineffective.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/warfarin.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=warfarin.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

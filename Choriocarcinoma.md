@@ -15,3 +15,12 @@ GTN is a type of neoplasm that results from malignant transformation of the chor
 In patients with suspected GTN, initial evaluation includes a quantitative β-hCG; thyroid, renal, and hepatic function panels; pelvic ultrasound; and chest x-ray. Treatment options include chemotherapy (typically methotrexate) and hysterectomy. After treatment, β-hCG levels are used as a marker for disease remission or progression.
 
 Patients with an incomplete abortion have vaginal bleeding and a positive pregnancy test. However, there is also associated cervical dilation, and products of conception are frequently visible at the cervical os, neither of which is seen in this patient.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Choriocarcinoma.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Choriocarcinoma.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

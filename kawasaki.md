@@ -29,3 +29,12 @@ All children diagnosed with Kawasaki disease (KD) should have an **echocardiogra
 The patient has been treated with intravenous immunoglobulin (IVIg), which is composed of **pooled antibodies**. These antibodies interfere with the body's normal **immune response to live vaccines**. Because of this, patients should **defer live vaccines** for 11 months after receiving IVIg.
 
 The vaccines typically administered at age 4 include live vaccinations (second dose of measles-mumps-rubella and varicella), so they should be postponed in this 39-month-old patient until the appropriate amount of time has elapsed.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/kawasaki.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=kawasaki.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

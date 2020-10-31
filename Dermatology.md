@@ -108,3 +108,12 @@ This patient's rash is most consistent with **lichen planus**, which is characte
 Lichen planus is usually seen in middle-aged adults.  Although its etiology is unknown, this condition is probably the result of **immunologic factors**.  Lichen planus can arise with the use of certain medications, but this  patient's amlodipine is not particularly associated with the disorder.  Treatment generally consists of topical corticosteroids, and  antihistamines may help control the severe itching.
 
 - [[Hair Loss]]
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Dermatology.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Dermatology.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

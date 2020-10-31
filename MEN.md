@@ -17,3 +17,12 @@ All patients with MTC require serum calcitonin and carcinoembryonic  antigen, ne
 Anticancer drugs and external beam radiation do not play a role in  initial management of MTC. Radiotherapy is usually reserved for  postsurgery patients with extrathyroidal disease or extensive nodal  metastases not amenable to surgical resection. Chemotherapy is  considered for patients with progressively metastatic MTC not responsive to surgery or radiotherapy.
 
 Radioactive iodine is preferentially taken up by thyroid tissue and is  often used following surgery for patients with differentiated thyroid  cancer (papillary or follicular) who are at risk for recurrence.  Radioactive iodine is not effective for MTC as these cells do not take  up iodine.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/MEN.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=MEN.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

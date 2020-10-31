@@ -63,3 +63,12 @@ If you were studying risk factors for myocardial infarction among patients admit
 ## Length-time bias
 
 Length-time bias is a phenomenon whereby a screening test preferentially detects less aggressive forms of a disease and therefore increases the apparent survival time.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/bias.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=bias.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

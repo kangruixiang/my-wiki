@@ -79,3 +79,11 @@ Patients with AIDS who have **cryptococcal meningoencephalitis** often have dram
 Patients with AIDS who develop cryptococcal meningitis require the  initiation of antiretroviral therapy (ART) to improve CD4 count and  prevent recurrence. However, the early initiation of ART can be  associated with life-threatening immune reconstitution inflammatory  syndrome; ART initiation is typically delayed until there is sustained  clinical improvement with treatment (generally after 2-10 weeks).
 
 Dexamethasone is often added to the treatment of bacterial meningitis  (eg, meningococcal meningitis) to reduce inflammation, morbidity, and  risk of death. Dexamethasone is not recommended for the treatment of  cryptococcal meningitis.
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/cryptococcus.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=cryptococcus.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

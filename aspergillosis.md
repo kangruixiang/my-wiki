@@ -36,3 +36,12 @@ Other forms of _Aspergillus_ infection occur in different clinical settings. Chr
 ## Aspergilloma
 
 Pulmonary aspergillomas (fungus balls consisting of hyphae, mucus, and cellular debris) may form in patients with pre-existing cavities, such as old tuberculosis cavities and in bullae of patients with COPD; the presence of significant hemoptysis is a potential complication. In the absence of associated symptoms or hemoptysis, pulmonary aspergillomas may not require therapy; however, in the setting of significant bleeding, surgical resection or embolization may be necessary. Antifungal therapy is typically not effective against pulmonary aspergillomas, and its role in aspergilloma treatment is unclear.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/aspergillosis.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=aspergillosis.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

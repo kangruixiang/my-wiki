@@ -75,3 +75,12 @@ A 42-year-old woman comes to the office for evaluation of elevated blood pressur
 Urinalysis shows **dysmorphic erythrocytes and mild proteinuria**.  ECG shows left ventricular hypertrophy with nonspecific ST-T wave changes.
 
 After learning about the disease, the patient becomes worried that her 19-year-old son may also have the same condition.  Which of the following is the most appropriate response to the patient? Screen US
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/ADPKD.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=ADPKD.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

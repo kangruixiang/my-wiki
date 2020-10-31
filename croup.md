@@ -15,3 +15,12 @@ Parainfluenza typically causes respiratory disease during the late fall and earl
 Most parainfluenza infections are mild and self-limited, but treatment can be offered to relieve symptoms of airway obstruction.  Mild croup is managed with humidified air and corticosteroids; moderate to severe disease requires corticosteroids and nebulized epinephrine.
 
 Although an unimmunized child would be at risk, cough is generally absent in epiglottitis, and the patient would appear toxic (eg, high fever, drooling, tripod positioning).
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/croup.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=croup.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

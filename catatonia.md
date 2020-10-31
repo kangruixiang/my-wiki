@@ -13,3 +13,12 @@ This patient's history of schizophrenia, current unresponsiveness, immobility, a
 The treatment of choice for catatonia is **benzodiazepines (especially lorazepam)** and/or **electroconvulsive therapy (ECT)**.  A lorazepam challenge test (intravenous bolus of lorazepam 1-2 mg) resulting in partial, temporary relief within 5-10 minutes confirms the diagnosis of catatonia.  However, a negative response does not rule out catatonia, and patients often need repeated doses.  ECT is recommended in urgent clinical situations or when the patient responds poorly to benzodiazepines.  Studies indicate that 60%-80% of patients recover with benzodiazepines alone or benzodiazepines followed by ECT.
 
 Avoid antipsychotics (can worsen symptoms).
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/catatonia.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=catatonia.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

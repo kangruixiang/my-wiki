@@ -19,3 +19,12 @@ This patient's high-titer ANA and mild cytopenia further support a diagnosis of 
 This patient's presentation – fatigue, night sweats, arthralgia/arthritis, and pleuritis/pleural effusion – is suggestive of **drug-induced lupus** due to **hydralazine**.  It is seen in approximately 5%–10% of patients receiving hydralazine  and occurs due to development of autoantibodies that trigger an  autoimmune response and a clinical syndrome similar to systemic lupus  erythematosus. Other autoantibodies, with the exception of **anti-histone antibodies**, are uncommon in this disorder.
 
 Drug-induced lupus causes **multisystem involvement**, and clinical findings can include fever, malaise, myalgia,  arthralgia/arthritis, serositis (pleuritis, pericarditis), and/or  hepatomegaly/splenomegaly. The diagnosis is made by a history of one or more offending drugs and a positive test for **antinuclear antibodies (ANAs)**. Some common drugs associated with risk of lupus include **procainamide, hydralazine, minocycline**, and anti-tumor necrosis factor (TNF) alpha therapy (**etanercept, infliximab**).  Treatment is generally symptomatic, and discontinuation of the  offending drug typically leads to resolution of symptoms within weeks to months.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Lupus.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Lupus.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

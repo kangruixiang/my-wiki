@@ -61,3 +61,12 @@ Miliary TB denotes the widespread **hematogenous** dissemination of _Myobacteriu
 Miliary TB is classically associated with a **diffuse nodular infiltrate** on chest imaging.  Diagnosis usually requires the identification of _M tuberculosis_ by fluid culture or biopsy with culture; **liver biopsy** is generally considered to have the highest diagnostic yield, but bone marrow and transbronchial biopsies are sometimes performed.  All patients should receive mycobacterial blood cultures, but diagnostic sensitivity is low.
 
 ![20200909203145_6](https://photos.thisispiggy.com/file/wikiFiles/20200909203145_6.png)
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Tuberculosis.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Tuberculosis.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

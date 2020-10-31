@@ -13,3 +13,12 @@ This young patient who did not receive  age-appropriate vaccinations has fever, 
 Diphtheria is caused by **toxigenic strains** of _Corynebacterium diphtheriae_, a gram-positive bacillus transmitted via respiratory secretions that largely affects children **age <15**.  Exotoxin released by the bacteria is absorbed systemically and can  result in dose-dependent damage to the heart, nervous system, and  kidneys. **Myocarditis** occurs in up to two-thirds of patients; severe cases are associated with complete heart block and heart failure.
 
 Vaccination with **diphtheria toxoid** significantly reduces the likelihood of infection with toxigenic  strains of diphtheria; this not only reduces the risk of developing  active infection but also limits asymptomatic carriage of toxigenic  strains (causing population-wide declines in prevalence).
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Diptheria.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Diptheria.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

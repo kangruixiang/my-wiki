@@ -23,3 +23,12 @@ Patients with **functional hypothalamic amenorrhea (FHA)** typically have amenor
 Patients with FHA also have an increased risk of **bone fracture** due to increased bone resorption from inadequate caloric intake. Therefore, a bone mineral density measurement (eg, DXA) is indicated in these patients. This constellation of symptoms (eg, oligomenorrhea or amenorrhea, relative caloric deficiency, decreased bone mineral density) constitutes the **athlete triad** that characterizes FHA. Treatment includes increased caloric intake, calcium and vitamin D supplementation, and estrogen for bone loss prevention.
 
 However, she also has amenorrhea; exogenous GH use is not associated with menstrual irregularities. In addition, patients using exogenous GH typically have associated hypertension and fluid retention (eg, edema, carpal tunnel syndrome), which are not seen in this patient.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Amenorrhea.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Amenorrhea.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

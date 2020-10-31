@@ -184,3 +184,12 @@ Physicians may have concerns that the family of the donor is too  grief-stricken
 The hypothesis testing process requires that error rates (eg, type I and type II errors) be defined a priori.  **Type I error** (alpha) is the probability of rejecting a null hypothesis when the null hypothesis is true.  Conducting **multiple independent hypothesis** tests without proper adjustment to the alpha level increases the rate of type I error.  This means that, when evaluating **multiple** secondary endpoints (eg, fasting plasma glucose, proportion of subjects reaching A1c <7.0%, changes in renal parameters), there is a higher probability of erroneously finding a statistically significant result with one of these endpoints (eg, higher likelihood of type I error) due to chance alone.  This phenomenon is known as the **multiplicity**, or **multiple testing**, **problem**.
 
 In general, the rate for type I error will increase depending on the alpha level for individual tests and the number of independent tests.  For example, the rate for type I error in a study attempting to evaluate 5 secondary endpoints would be 23%, whereas the classically accepted value is usually set <5% (statistically significant _p_-value).  The alpha level or _p_-value is sometimes adjusted to account for the multiple testing problem.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Biostats.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Biostats.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

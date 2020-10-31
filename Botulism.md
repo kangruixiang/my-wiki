@@ -15,3 +15,12 @@ Nonspecific early manifestations include **constipation** and poor feeding, as s
 Acetylcholine receptor antibodies in the neuromuscular junction are implicated in myasthenia gravis. Ptosis is a common presenting symptom; however, constipation is not associated, and a slow progression of  fluctuating muscle weakness and fatigue is characteristic.
 
 **Intravenous botulism immune globulin** (BIG-IV) is the  treatment for infant botulism and should be administered as early as  possible in the course of the illness to reduce the severity and  duration of symptoms. It is given once the diagnosis is suspected and  should not be delayed while awaiting confirmatory stool studies. Close  monitoring of respiratory status is also required and is typically  performed in an intensive care setting in case of any sudden  deterioration. Supportive care includes laxatives for constipation and  nasogastric feeds for poor suck. Infants often require hospitalization  for a few months; however, a **full recovery** is expected with BIG-IV.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Botulism.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Botulism.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

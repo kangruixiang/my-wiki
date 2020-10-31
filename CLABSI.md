@@ -30,3 +30,12 @@
 
 
 Antibiotic lock therapy, a method for sterilizing the catheter lumen, involves instilling high concentrations of antibiotics into the catheter lumen for extended periods of time. 
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/CLABSI.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=CLABSI.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

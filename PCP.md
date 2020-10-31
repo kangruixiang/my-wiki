@@ -23,3 +23,12 @@ _Pneumocystis jirovecii_ pneumonia:
 Patients with HIV who have moderate or severe _Pneumocystis_ pneumonia (PCP) often have **respiratory decompensation** during the first 2-3 days of treatment due to organism lysis, which  stimulates an inflammatory response. To reduce the risk of intubation  and death, **corticosteroids** are used in those with arterial blood gas (ABG) evidence of **alveolar-arterial oxygen gradient >35 mm Hg** and/or arterial oxygen tension (PaO2) <70 mm Hg (on room air).
 
 Some research suggests that pulse oxymetry readings <92% indicate a need  for corticosteroids (without ABG). However, ABG remains the standard of care and helps determine whether intravenous antibiotics and  hospitalization in the intensive care unit are needed.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/PCP.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=PCP.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

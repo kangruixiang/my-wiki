@@ -33,3 +33,12 @@ Laboratory studies:
 A chest radiograph shows a right lower lobe infiltrate and ipsilateral hilar lymphadenopathy.
 
 Primary pulmonary tuberculosis may present with mid- to lower-zone unilateral infiltrates, unilateral hilar lymphadenopathy, and pleural effusions. Early in the course of the disease, laboratory findings are often normal; eosinophilia is not present. Finally, pulmonary tuberculosis is excluded by the negative interferon-γ release assay.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/coccidioidomycosis.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=coccidioidomycosis.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

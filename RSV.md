@@ -17,3 +17,12 @@ Antibiotics have no role in the treatment of bronchiolitis unless there  is conc
 Systemic corticosteroids are not recommended for first-time  bronchiolitis due to the lack of evidence of clinical effect.  Corticosteroids can be considered in patients with recurrent wheezing or asthma exacerbation.
 
 RSV is associated with the development of **recurrent wheezing** in up to 30% of patients. Patient should be advised to avoid other  triggers of airway reactivity, particularly exposure to secondhand  cigarette smoke.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/RSV.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=RSV.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

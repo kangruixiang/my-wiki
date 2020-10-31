@@ -15,3 +15,12 @@ The gold standard for the diagnosis of HD is **rectal suction biopsy**.  Rectal 
 Treatment of HD is **surgical resection** of the aganglionic bowel segment and anastomosis of the normal bowel with the anus.  Long-term improvements in quality of life are achieved in most patients, although some have lifelong continence problems.  This is especially true in patients with underlying conditions such as trisomy 21.
 
 ![image-20200713164217499](https://photos.thisispiggy.com/file/wikiFiles/image-20200713164217499.png)
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/hirschsprung.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=hirschsprung.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

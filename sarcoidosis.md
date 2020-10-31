@@ -31,3 +31,12 @@ Sarcoidosis is a systemic inflammatory disorder characterized by the formation o
 A biopsy (eg, bronchoscopy with transbronchial biopsy) is typically  required for definitive diagnosis. Asymptomatic patients often require  no treatment; those with symptoms or pulmonary function impairment  usually receive 12-24 months of **oral glucocorticoids**. Most cases (75%) **resolve over time** and do not recur.
 
 Most patients with sarcoidosis improve over time, but a minority have  progressive lung disease (25%) or organ dysfunction (10%). These  patients often require treatment with methotrexate, azathioprine, or  tumor necrosis factor-alpha antagonists.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/sarcoidosis.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=sarcoidosis.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

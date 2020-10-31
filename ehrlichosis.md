@@ -26,3 +26,11 @@ Although many infections present identically to HME, the salient feature in this
 Infectious mononucleosis can present with fever, cytopenia, and elevated aminotransferase levels. However, other components of the infectious mononucleosis triad (fever, pharyngitis, and cervical lymphadenopathy) were absent in this patient.
 
 The rapid response to doxycycline treatment is consistent with Rocky Mountain spotted fever (RMSF) infection. However, the pronounced leukopenia and absence of a rash more than 1 week into the illness argue against this diagnosis.
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/ehrlichosis.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=ehrlichosis.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

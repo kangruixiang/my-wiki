@@ -15,3 +15,12 @@
 - **Intravenous immunoglobulin** can be considered in patients who have failed or have contraindications to steroid therapy or require a more rapid increase in platelet counts.
 - **Anti-Rh(D)** is an alternate treatment option in rhesus-positive non-splenectomized patients.
 - **Rituximab** can be considered for patients who have failed initial treatment.  Splenectomy is generally reserved for refractory cases .
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/ITP.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=ITP.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

@@ -29,3 +29,12 @@ Given that this patient has malignant hypertension with CNS manifestations, a se
 <!-- scleroderma sx --> 
 
 This patient's presentation is most consistent with systemic sclerosis,  also known as scleroderma. Many patients with scleroderma develop  pulmonary fibrosis, which is likely the cause of this patient's  shortness of breath. Pulmonary fibrosis is often associated with dry  cough and a ''velcro'' like sound on pulmonary auscultation. Many  patients with scleroderma have severe gastroesophageal reflux symptoms  due to hypomotility of the esophagus and incompetence of the lower  esophageal sphincter. A cardiac heave is sometimes found with heart  failure, which can be an additional manifestation of scleroderma. The  telangiectasias noted around this patient's lips likely represent skin  involvement of scleroderma. It is important to note that some patients  may have many of the systemic manifestations of the disease without the  characteristic skin sclerosis. Because the telangiectasias are the only skin manifestation, this patient may have the limited cutaneous  subcategory of scleroderma. Anti-centromere antibody is the  autoantibody seen most commonly with this disorder.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/scleroderma.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=scleroderma.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

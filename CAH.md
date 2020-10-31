@@ -108,3 +108,12 @@ The mainstay of treatment for patients with congenital adrenal hyperplasia is ex
 The first-line glucocorticoid depends on the age of the patient; in children, **hydrocortisone** is used due to its short half life, which decreases the risk of iatrogenic short stature. In adults, **dexamethasone** is used.
 
 **Stress doses of glucocorticoids** should be used in patients with congenital adrenal hyperplasia that are experiencing physical stress or illness **to avoid an adrenal crisis**.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/CAH.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=CAH.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

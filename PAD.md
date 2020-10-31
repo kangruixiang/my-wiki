@@ -27,3 +27,12 @@ Patients with ALI with threatened viability of the limb have severe pain (rest  
 Noninvasive vascular imaging with duplex ultrasonography, CT  angiography, or magnetic resonance angiography is a reasonable option  for patients with viable ALI that is not under immediate threat of  tissue necrosis. Such patients typically have intact arterial and  venous Doppler signals and no sensory or motor deficits.
 
 Patients with an ischemic but viable extremity on examination can be  managed with catheter-based thrombolytic therapy or surgical  revascularization. Catheter-based intra-arterial administration has  better clinical outcomes and fewer bleeding complications than  intravenous administration of thrombolytic agents.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/PAD.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=PAD.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

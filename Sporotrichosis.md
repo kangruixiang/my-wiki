@@ -15,3 +15,12 @@ The first manifestation is typically a **painless** **papule** at the site of in
 <!-- A 28-year-old man comes to the office due to a skin rash on his right cheek. He was exploring caves in central Pennsylvania 2 weeks ago when he sustained a scrape to his cheek from a fallen tree  branch. The abrasion improved over a few days, but a red bump appeared  at the injury site soon after. The bump gradually enlarged and began to drain a clear fluid with no odor.  Two similar bumps then developed near the previous lesion. The patient has had no fever, malaise, cough, or shortness of breath. He does not  use tobacco, alcohol, or illicit drugs. Vital signs are within normal  limits. A 1.5-cm (0.6-in), erythematous nodule with central ulceration  is present at the right jaw line. There is a minimal amount of serous  drainage from the lesion. Two smaller erythematous nodules are present  in the right anterior cervical area. The cervical lymph nodes are  enlarged. The remainder of the physical examination is normal. Which  of the following is the most likely diagnosis? -->
 
 Sporotrichosis
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Sporotrichosis.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Sporotrichosis.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

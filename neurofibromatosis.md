@@ -15,3 +15,12 @@ Once the diagnosis of NFI is suspected, **ophthalmologic evaluation** for **opti
 Patients with neurofibromatosis type II (NFII) require audiologic  evaluation for sensorineural hearing loss due to bilateral vestibular  schwannomas, which are not as common in NFI. CALMs are not a classic  feature of NFII.
 
 Serum growth hormone is often elevated in patients with McCune-Albright  syndrome, which classically presents with CALMs with irregular borders  as well as fibrous dysplasia and precocious puberty. This patient has  CALMs with smooth borders, consistent with NFI.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/neurofibromatosis.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=neurofibromatosis.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

@@ -72,3 +72,12 @@ graph TB
 id3[Idiopathic interstial pneumonias]-->id6[Idiopathic pulmonary fibrosis] & id7[IIP other than IPF]
 id7-->id8[DIP] & id9[AIP] & id10[NSIP] & id11[Cryptogenic] & id12[LIP] & id13[respiratory bronchiolitis ILD]
  `
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/ILD.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=ILD.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

@@ -42,3 +42,12 @@ HCP who do not have immunity to VZV typically receive postexposure prophylaxis w
 - antiviral can expedite process of healing
 
 As such, patients treated in the outpatient setting for active herpes zoster lesions should be advised to **cover the rash** to prevent direct contact and to avoid patients who are highly susceptible to illness, such as pregnant women who have never had varicella or the varicella vaccine, low-birth-weight infants, and immunocompromised individuals.  Patients may otherwise go about their normal activities without restriction.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/shingles.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=shingles.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

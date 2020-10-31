@@ -28,3 +28,12 @@ A bedside transvaginal ultrasound reveals an intrauterine gestation with normal 
 ![image-20200205201741386](https://photos.thisispiggy.com/file/wikiFiles/image-20200205201741386.png)
 
 Human papillomavirus (HPV) is responsible for most cases of genital warts as well as cervical, vulvar, vaginal, penile, and anal cancers. HPV can also cause oropharyngeal cancer, which is more common in men than women. Current available **HPV vaccines** target 9 types that cause either **genital warts** (eg, **types 6 and 11**) or **cancer** (eg, **types 16 and 18**). All males and females should be offered the HPV vaccine to reduce HPV transmission and prevent disease (eg, warts, cervical cancer, oropharyngeal cancer).
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/HPV.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=HPV.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

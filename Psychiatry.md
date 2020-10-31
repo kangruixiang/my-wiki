@@ -86,3 +86,12 @@ This patient's tearfulness, insomnia, poor appetite, weight loss,  hallucination
 The patient's transient hallucinations and illusions are part of normal  grief and do not require treatment with an antipsychotic.
 
 Uncomplicated acute grief does not require treatment and is generally managed with  support from family, friends, and clergy. Benzodiazepines have not been shown to be helpful and are not recommended **(Choice B)**. Psychotherapy is generally unnecessary and should not be routinely offered **(Choice C)**.  For patients with insomnia, a behavioral approach (eg, sleep hygiene)  is the recommended initial intervention. Hypnotic medications are  reserved for patients unresponsive to behavioral interventions.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Psychiatry.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Psychiatry.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

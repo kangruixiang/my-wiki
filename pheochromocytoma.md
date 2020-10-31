@@ -17,3 +17,12 @@ Patients with negative abdominal imaging usually require further testing such as
 ![20200904103120_5](https://photos.thisispiggy.com/file/wikiFiles/20200904103120_5.png)
 
 Even with adequate preoperative alpha blockade and adequate fluid replenishment, some patients with pheochromocytoma have intraoperative and postoperative complications.  Hypotension is an important intraoperative complication due to decreased circulatory catecholamine levels following tumor removal.  In addition, persistent preoperative alpha blockade results in decreased vascular tone.  Intra- and postoperative hypotension usually responds well to normal saline bolus.  Pressors may be required in patients who do not respond to intravenous fluids.  Other complications include hypertensive crisis, hypoglycemia, and cardiac tachyarrhythmias.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/pheochromocytoma.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=pheochromocytoma.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

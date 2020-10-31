@@ -20,3 +20,12 @@ Patients with an ACL tear will show laxity at the knee with the tibia able to be
 Patients with a meniscal tear may report a **subacute or chronic** locking or catching sensation in the knee but often do not appreciate the extent of the injury when it occurs. **Effusions, when they occur, typically develop slowly** and hemarthrosis is rare.
 
 Meniscal tears are possible in athletes subjected to rapid direction changes and are characterized by a subacute or chronic locking or popping sensation in the knee.  However, immediate symptoms at the time of the injury may be mild.  Effusions are possible but typically develop slowly, and hemarthrosis is rare.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/ACL.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=ACL.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

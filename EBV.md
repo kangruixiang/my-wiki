@@ -19,3 +19,12 @@
 Primary HIV infection should be suspected in a sexually active  individual with unexplained fever, fatigue, weight loss, and  lymphadenopathy. However, **exudative pharyngitis is not seen in HIV  infection**, whereas symptoms such as diarrhea and rash usually are.
 
 Although this patient meets some of the Centor criteria (ie, fever,  exudative pharyngitis, lack of cough), streptococcal pharyngitis is  unlikely in a patient with generalized **lymphadenopathy** and **hepatosplenomegaly**.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/EBV.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=EBV.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

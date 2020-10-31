@@ -33,3 +33,12 @@ Patients with KS typically have **mammillary body atrophy** on MRI of the brain.
 **Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes (MELAS)**, one of the most common mitochondrial myopathies, typically affects patients age <40 and presents with **stroke-like episodes** (eg, hemiparesis, vision abnormalities), **seizures**, muscle weakness, **hearing loss**, and **lactic acidosis** (due to mitochondrial dysfunction). Brain lesions, which are the  result of defective mitochondrial energy production, are termed  "stroke-like" as they do not correspond to vascular territories.
 
 Many mitochondrial myopathies are **maternally inherited**, with the condition being passed from the affected mother to **male and female offspring** (although heteroplasmy can result in variable clinical expression); however, **male** offspring do **not** further transmit the condition. This corresponds to the depicted  pedigree: The grandmother of the patient had MELAS and transmitted it  to all her children, but only her daughters (ie, the patient's aunt and  mother) transmitted the disease to their offspring.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/encephalopathy.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=encephalopathy.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

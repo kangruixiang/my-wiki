@@ -87,3 +87,12 @@ Patients with very low-risk (and many with low-risk) prostate cancer have **exce
 Individuals who progress on active surveillance and those with higher initial risk stratifications (moderate, high, very high) are typically treated with radiotherapy or radical prostatectomy. These therapies are associated with high cure rates but often cause significant morbidity. Radiotherapy (eg, brachytherapy, external beam) commonly results in urinary and gastrointestinal irritation as well as erectile dysfunction **(Choice C)**. Radical prostatectomy is associated with high rates of sexual dysfunction and moderate rates of urinary incontinence **(Choices A and D)**.
 
 **(Choice B)** Androgen deprivation therapy is not generally recommended for localized prostate cancer but is widely used for metastatic prostate cancer. Patients with very low-risk or low-risk prostate cancer are considered to have localized disease and do not require androgen deprivation therapy or evaluation (eg, CT scan, bone scan) for metastatic disease.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/test.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=test.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

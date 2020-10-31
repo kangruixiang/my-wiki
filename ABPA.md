@@ -17,3 +17,12 @@ Current diagnostic criteria for ABPA include an **elevated _Aspergillus_-specifi
 Chest radiography typically demonstrates **upper lobe opacities**, atelectasis due to mucus plugging, and signs of **bronchiectasis** such as bronchial wall thickening.  In addition, CT imaging can be helpful to further identify specific radiographic abnormalities consistent with ABPA.
 
 Because allergic bronchopulmonary aspergillosis represents a hypersensitivity response, systemic glucocorticoids are the mainstay of treatment (sometimes supplemented by antifungal therapy with an azole).
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/ABPA.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=ABPA.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

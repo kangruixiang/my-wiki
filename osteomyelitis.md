@@ -15,3 +15,12 @@ This patient with **sickle cell disease (SCD)** has fever, focal bone pain, and 
 The most common etiology is the gram-positive cocci _Staphylococcus aureus_, including methicillin-resistant _S aureus_ (MRSA). However, this patient's history of SCD raises his risk of osteomyelitis due to gram-negative organisms, including **_Salmonella_**. Patients with SCD have **functional asplenia** due to repeated splenic microinfarctions, rendering vulnerability to encapsulated organisms.
 
 Empiric antibiotic therapy should therefore include gram-positive coverage with nafcillin, oxacillin, or cefazolin if rates of MRSA are low or clindamycin or vancomycin if MRSA is suspected. In addition, this patient's history of SCD necessitates additional treatment with a **third-generation cephalosporin** (eg, ceftriaxone, cefotaxime) for gram-negative coverage. Antibiotic therapy should begin promptly after initial laboratory studies are drawn to reduce the risk of further morbidity and mortality.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/osteomyelitis.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=osteomyelitis.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

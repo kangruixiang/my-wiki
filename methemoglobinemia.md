@@ -23,3 +23,12 @@
 Patients typically have **cyanosis** and **dark chocolate-colored blood**.  **Standard pulse oximetry readings** are **low** (85%) due to the absorption spectrum of methemoglobin and do not represent the true oxygen saturation.  Due to the poor oxygen affinity of methemoglobin, the administration of supplemental oxygen does not improve cyanosis, blood color, or pulse oximetry readings.  Because arterial blood gas testing analyzes unbound arterial oxygen (as opposed to hemoglobin-bound oxygen), the **PaO2 is normal** and overestimates the degree of true oxygen saturation.  With severe cases of methemoglobinemia, the decreased oxygen delivery can result in altered mental status, seizures, and death.
 
 Treatment: Methylene blue acts as an electron acceptor for NADPH and is reduced to leucomethylene blue, which in turn **reduces methemoglobin back to hemoglobin**.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/methemoglobinemia.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=methemoglobinemia.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

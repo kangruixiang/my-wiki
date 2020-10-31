@@ -17,3 +17,12 @@ Initial management is **physical and cognitive rest** for 24-48 hours.  Athletes
 In this case, the patient tolerated light aerobics but developed dizziness and nausea with moderate exercise; therefore, she should rest for a day and then **return to light aerobic activity**.
 
 Brain imaging to exclude structural intracranial injury may be considered for worsening symptoms despite appropriate rest and adherence to the gradual return-to-play protocol.  In contrast, this patient's symptoms that wax and wane with exertion are typical of a concussion and can be managed by adjusting the activity level.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/concussion.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=concussion.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

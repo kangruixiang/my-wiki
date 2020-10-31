@@ -29,3 +29,12 @@ After confirmation of maternal  thalassemia, a paternal hemoglobin electrophores
 <!-- thalassemias disorder, types, Hgb --> 
 
 ![image-20200717143652497](https://photos.thisispiggy.com/file/wikiFiles/image-20200717143652497.png)
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/Anemia.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=Anemia.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

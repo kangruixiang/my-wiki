@@ -27,3 +27,12 @@
 	- **Chronic prostatitis/chronic pelvic pain syndrome** (CP/CPPS) - urine culture results are **aseptic**
 	- Chronic bacterial prostatitis – urine culture results show bacteriuria (>10 fold increase after prostate massage)
 - rx: The underlying cause of chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS) remains unclear.  As a result, there is much uncertainty about the ideal approach to treatment.  Most patients receive a combination of therapies including medications for prostate enlargement (eg, alpha blockers), antibiotics, anti-inflammatories, and/or psychotherapy.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/prostatitis.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=prostatitis.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

@@ -13,3 +13,12 @@ Bilirubin levels in newborns are physiologically elevated due to liver immaturit
 Phototherapy converts bilirubin into a water-soluble form that can be readily excreted in the urine and stool. As bilirubin levels physiologically rise at this age of life, a **stable bilirubin level** under phototherapy is not immediately considered a failed intervention and **phototherapy should continue** with interval bilirubin monitoring. Although formula supplementation can improve hydration and hyperbilirubinemia, stopping therapy **(Choices B and E)** would be inappropriate as the bilirubin level is still above the level of threshold for treatment. Additionally, although direct sunlight can lower bilirubin levels, it is not recommended in place of phototherapy due to sunburn risk.
 
 Exchange transfusion removes bilirubin and replaces the majority of an infant's red blood cells. It is indicated if phototherapy has been ineffective (eg, rapidly rising bilirubin) or if bilirubin levels are already at toxic levels.
+
+
+<hr>
+
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/hyperbilirubinemia.md)
+
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=hyperbilirubinemia.md ':target=_self')
+
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>
