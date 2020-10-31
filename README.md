@@ -1,46 +1,14 @@
 ![[Mint System Logo.png]]
 
-# Knowledge Mint System
+# Header 1
 
-Diese Ablage ist die strukturierte Wissensdatenbank der [[Mint System GmbH]].
+[[test]]
 
-Sie ist als Git Repository unter <https://github.com/Mint-System/Knowledge> gehostet.
 
-## Darstellung
+<hr>
 
-Die Wissensdatenbank wird mit [[Docsify]] visualisiert.
+[📝 Edit on GitHub](https://github.com/Mint-System/Knowledge/blob/master/README.md)
 
-## Bearbeitung
+[📂 Open in Obsidan](obsidian://open?vault=Knowledge%20Mint%20System&file=README.md ':target=_self')
 
-Zur Bearbeitung der Wissensdatenbank muss [[Obsidian]] und [[Git]] installiert sein.
-
-Zur lokalen Bearbeitung erstellt man einen Klon des Git Repo `git clone git@github.com:Mint-System/Knowledge.git` und öffnet den Ordner als Obsidian-Vault.
-
-Mehr zur gemeinsamen Bearbeitung gibt es unter [[Contribution]]. 
-
-## Struktur
-
-Die Wissensdatenbank ist eine Ansammlung von [Markdown](https://de.wikipedia.org/wiki/Markdown)-Dateien. Diese Text-Dateien werden mittels [Wikilinks](https://de.wikipedia.org/wiki/Hilfe:Links)  verlinkt und bilden so eine vernetzte Wissensdatenbank.
-
-## Navigation
-
-Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch, sondern entlang der Beziehungen. Jeder Wikilink zeigt auf einen Artikel, welcher wiederum auf einen weiteren Artikel zeigt.
-
-Dazu die wichtigsten Begriffe zum Einstieg:
-* [[Odoo]]
-* [[Angebot]]
-* [[Prozesse]]
-* [[Infrastruktur]]
-* [[Methodik]]
-* [[Richtlinien]]
-* [[Dokumente]]
-* [[Netzwerk]]
-* [[Corporate Design]]
-* [[Tools]]
-* [[Links]]
-* [[Tags]]
-* [[Philosophie]]
-
-## Hilfe
-
-Obsidian bietet eine umfangreiche Hilfestellung. Ein Tutorial um Markdown zu lernen gibt es [[Markdown Tutorial|hier]]
+<footer>Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a></footer>

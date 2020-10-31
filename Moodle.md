@@ -1,2 +1,0 @@
-# Moodle
-[[Moodle-Hosting]]

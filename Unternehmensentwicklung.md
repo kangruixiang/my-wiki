@@ -1,2 +1,0 @@
-# Unternehmensentwicklung
-Type: [[Bereich]]

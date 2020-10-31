@@ -1,2 +1,0 @@
-# Finanzen
-Typ: [[Bereich]]

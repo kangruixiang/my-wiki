@@ -43,7 +43,7 @@ function convert(content, file) {
 
     content = content.replace(
       match,
-      `<a href="my-wiki/#/${href}${anchor ? "?id=" + anchor : ""}">${title}</a>`
+      `<a href="/#/${href}${anchor ? "?id=" + anchor : ""}">${title}</a>`
     );
   }
 

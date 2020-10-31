@@ -1,4 +1,0 @@
-# Philosophie
-* Zielorientiert
-* Modern
-* Transparent
