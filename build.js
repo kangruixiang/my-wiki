@@ -4,7 +4,7 @@ const convert = require("./convert");
 
 const paths = [];
 const ignoreFiles = ["_navbar.md", "_sidbar.md"];
-const mdPath = path.join(__dirname, "docs");
+const mdPath = path.join(__dirname);
 
 // loop all markdown files of the current folder
 fs.readdirSync(mdPath)

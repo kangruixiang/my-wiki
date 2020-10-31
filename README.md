@@ -15,7 +15,7 @@
 - [[Cardiology]]
 - [[Dermatology]]
 - [[Endocrine]]
-- [[eye disorders]]
+- [[eye disrorders]]
 - [[GI]]
 - [[Hemeonc]]
 - [[ID]]
