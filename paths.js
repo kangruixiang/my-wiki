@@ -1,1 +1,1 @@
-const paths = ["/readme","/test","/_sidebar"]
+const paths = ["/readme", "/test", "/_sidebar", "docs"];
