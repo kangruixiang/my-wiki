@@ -3,19 +3,19 @@
     "vercel-build": "node ./build.js"
   },
   "name": "my-wiki",
-  "description": "My wiki",
+  "description": "![[Mint System Logo.png]]",
   "version": "1.0.0",
   "main": "build.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kangruixiang/my-wiki.git"
+    "url": "git+https://github.com/Mint-System/Knowledge.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kangruixiang/my-wiki/issues"
+    "url": "https://github.com/Mint-System/Knowledge/issues"
   },
-  "homepage": "https://github.com/kangruixiang/my-wiki#readme",
+  "homepage": "https://github.com/Mint-System/Knowledge#readme",
   "dependencies": {
     "glob": "^7.1.6"
   }
