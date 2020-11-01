@@ -11,11 +11,12 @@ fs.readdirSync(mdPath)
   .filter((file) => file.slice(-3) === ".md" && ignoreFiles.indexOf(file) != 0)
   .forEach((file) => {
     // get markdown content
-    console.log(file);
+
     var content = fs.readFileSync(file, "utf8");
 
     // set new file name
     newfile = convert.sanitizeFilename(file);
+    console.log(newfile);
 
     // push filename
     paths.push("/" + newfile.replace(".md", ""));

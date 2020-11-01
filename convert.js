@@ -1,5 +1,5 @@
 function sanitizeFilename(file) {
-  return file.toLocaleLowerCase().replace(/\s+/g, "-").replace("---", "-");
+  return file.toLowerCase().replace(/\s+/g, "-").replace("---", "-");
 }
 
 function convert(content, file) {

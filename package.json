@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mint-System/Knowledge/issues"
   },
-  "homepage": "https://github.com/Mint-System/Knowledge#readme"
+  "homepage": "https://github.com/Mint-System/Knowledge#readme",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
 }
