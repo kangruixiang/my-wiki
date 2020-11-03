@@ -1,0 +1,562 @@
+---
+- date: 2020-09-07
+---
+
+# sketchy
+
+- Widened mediastinum on chest x-ray if pulmonary infection
+- B.cereus classically causes vomiting after eating reheated rice
+- Large gram positive rods in chains
+- Flouroquinolone treatment
+- Tetracycline treatment
+- Spore forming
+- "Wool sorters disease"- classically causes pulmonary infection in those who work with wool.
+- Protein capsule composed of poly-D-glutamic acid
+- Edema factor
+- Edema factor acts by causing elevation in cAMP
+- Lethal factor
+- Lethal factor responsible for tissue necrosis
+- Most common manifestation of infection is cutaneous black eschar
+- Pulmonary infection may lead to pulmonary hemorrhage
+- Spore forming
+- Spores found in soil
+- Obligate anaerobe
+- Lock jaw and facial spasms (risus sardonicus)
+- Vaccine consists of deactivated toxin (same color orange)
+- Tetanus toxin: cleaves SNARE
+- Tetanus toxin: cleaves SNARE preventing release of inhibitory neurotransmitters GABA and Glycine
+- Tetanus toxin inhibits inhibitory neurotransmitter release from Renshaw cells in spinal cord (wrench and saw)
+- Muscle spasms cause arched back
+- Tetanus toxin migrates to CNS via retrograde axonal transport
+- Endospores transmitted via puncture wound from rusty nail
+- Endospores transmitted via puncture wound from barbed wire
+- Spore forming
+- Transmitted by home canned food
+- Obligate anaerobe
+- Descending flaccid paralysis
+- Ptosis
+- Endospores found in honey
+- Botulism toxin prevents acetylcholine release at neuromuscular junction
+- "Floppy baby"
+- Obligate anaerobe
+- Toxin detected in stool
+- Spore forming
+- Clindamycin: C. Diff infection after antibiotic use
+- Exotoxin A
+- Exotoxin A attaches to brush border
+- Exotoxin
+- Exotoxin B disrupts cytoskeleton by depolymerizing actin
+- Pseudomembranous colitis
+- Watery diarrhea
+- Oral vancomycin for treatment
+- IV metronidazole for treatment
+- Obligate anaerobe
+- Spores found in soil
+- May cause slow onset diarrhea
+- Infection associated with motorcycle accidents and other major trauma
+- Double zone of hemolysis when plated
+- Penicillin treatment
+- Causes "gas gangrene"
+- Alpha-toxin disrupts cell membrane function
+- Alpha-toxin also has hemolytic activity
+- Infection associated with deep penetrating military wounds
+- Metachromatic granules (red and blue)
+- ADP ribosylation of elongation factor 2
+- Pseudomembrane on throat and tonsils
+- Bull neck
+- Transmitted by respiratory droplets
+- Cardiotoxic effects: myocarditis, arrhythimia, heart block
+- Demyelination causes nerve deficits starting in posterior oropharynx
+- b"Plated on Loeffler's medium"
+- b"Elek's test"
+- Inactivated pertussis toxoid vaccine
+- Club shaped rods in V or Y formation
+- Plated on Tellurite agar
+- Common cause of neonatal meningitis
+- Catalase positive
+- Tumbling motility
+- Beta hemolytic
+- Facultative anaerobic bacterium
+- Motile with flagella at 30 \xc2\xb0C and below
+- May be acquired transvaginally- pregnant women may be advised not to eat soft cheese
+- Treatment with ampicillin
+- At body temperature, motile by actin polymerization, or "actin rockets"
+- Transmitted from dairy products
+- Transmitted by consumption of certain of cheeses
+- ## Infection also prevalent in elderly population
+- Obligate anaerobe
+- Formation of sinus tracts
+- Treat with penicillin
+- Gram positive filamentous rod
+- ## Infection associated with jaw trauma
+- Yellow sulfur granules
+- Urease positive
+- Gram-positive branching filamentous rod.	- Similar to actinomyces
+- Obligate aerobe
+- Found in soil
+- Mycolic acids
+- Catalase positive
+- Immunocompromised especially affected
+- Pneumonia like symptoms
+- Associated with cavitary lesions in lung
+- Brain abscess formation
+- Cutaneous symptoms- indurated lesions and inflammatory reaction
+- Treat with sulfonamides
+- Partially acid fast
+- Oxidase positive
+- Growth on VPN agar
+- Growth on VPN agar
+- Growth on VPN agar
+- Gram negative diplococci
+- Growth on chocolate agar
+- Alternate name for VPN agar
+- Patients with C5-C9 deficiency are unable to form MAC complex, leading to increased infections
+- C5-C9 deficiency
+- Pili demonstrate antigenic variation
+- IgA protease - cleaves IgA at hinge region
+- Easily spread in close quarters like college dorms
+- Ferments maltose in addition to glucose
+- Colonizes nasopharynx first. Transmitted by respiratory secretions.
+- Polysaccharide capsule inhibits phagocytosis
+- Polysaccharide capsule inhibits phagocytosis
+- Vaccine contains polysaccharide capsule
+- Type B capsule not included in vaccine
+- Sickle cell and asplenic patients at higher risk of infection
+- LOS envelope proteins cause inflammatory response
+- Inflammation leads to leaky capillaries
+- Inflammation leads to leaky capillaries
+- Characteristic petechial rash indicates thrombocytopenia
+- Petechial rash from thrombocytopenia. Risk of DIC
+- Petechial rash from thrombocytopenia. Risk of DIC
+- Petechial rash from thrombocytopenia. Risk of DIC
+- Petechial rash from thrombocytopenia. Risk of DIC
+- Capillary leakage can lead to hypovolemia and shock
+- Waterhouse-Friderichsen syndrome, characterized by hemorrhage of adrenals
+- Ceftriaxone treatment
+- Rifampin prophylaxis in close contacts
+- IgA protease - cleaves IgA at hinge region
+- Asymmetric arthritis, commonly in knee
+- Gram negative diplococci, facultative intracellular in PMNs
+- not encapsulated
+- Causes Pelvic Inflammatory Disease in females
+- Characteristic white purulent discharge
+- Violin string adhesions form to capsule of liver
+- Fitz Hugh Curtis Syndrome: spread of PID into peritoneum
+- Early onset conjunctivitis in newborns
+- Ceftriaxone treatment
+- Chlamydia coinfection
+- Chlamydia coinfection
+- Sexually Transmitted Infection (the sexual tension is palpable)
+- Ceftriaxone treatment
+- Gram negative diplococci, facultative intracellular in PMNs
+- Ceftriaxone treatment
+- Urease positive
+- Lactose fermenter
+- Pink on MacConkey Agar
+- Capsule
+- Alcoholics
+- Abscesses
+- Aspiration
+- "Currant" jelly sputum
+- Immotile
+- Klebsiella
+- Enterobacter
+- Motile
+- Motile
+- Serratia
+- Produces red pigment
+- Pneumonia
+- Cavitary lesion
+- Urinary tract infection
+- Multidrug resistant
+- Acid-labile
+- Salmonella is motile
+- H2S positive, black colonies on Hektoen Agar plate
+- Capsule
+- Salmonella enteritidis
+- Salmonella typhi
+- The reservoir for Salmonella enteritidis is the chicken
+- Salmonella typhi in the gallbladder of chronic carriers
+- Typhoid Mary
+- Rose colored macules
+- Osteomyelitis
+- In Sickle Cell disease
+- "Pea soup" diarrhea
+- Fluoroquinolones treatment (ie Cipro)
+- Live attenuated vaccine
+- Inflammatory diarrhea
+- Type III secretion system
+- Facultative intracellular within macrophages
+- Facultative intracellular within macrophages
+- Acid stable
+- Green colonies on Hektoen agar
+- Immotile
+- Use of actin filaments
+- Invasion of M cells
+- Blood in stool
+- Inflammatory diarrhea
+- Glomerular damage
+- Drop in platelet counts
+- Red blood cell hemolysis
+- HUS common in young children
+- Toxin binds to 60S subunit of ribosomes
+- Type III Secretion System
+- Shiga-like toxin can cause HUS
+- Most common cause of UTI
+- Catalase positive
+- Lactose fermenter
+- Pink on MacConkey Agar
+- Encapsulated
+- K Antigen
+- Green on EMB agar
+- Fimbriae
+- Sepsis
+- Neonatal meningitis
+- Only if it has K antigen
+- Transmitted by eating undercooked meat
+- Bloody diarrhea
+- Does NOT ferment sorbitol
+- Damages endothelial cells in the glomerulus
+- Platelet aggregation and decrease in platelet count
+- Red blood cell hemolysis
+- O157:H7 antigen is associated with outbreaks
+- b"Traveler's diarrhea"
+- Transmitted via water
+- L = Labile A = cAMP
+- S= Stable G = cGMP
+- Watery diarrhea
+- Bipolar staining, sometimes described as having a safety pin appearance
+- Killed vaccine can be used to prevent transmission
+- Streptomycin (with tetracycline) for treatment
+- Resistant to cold temperatures
+- Y. enterocolitica transmitted through puppy feces
+- Infection can mimic appendicitis symptoms
+- May be transmitted through contaminated milk products
+- Toddlers are commonly affected by Y. enterocolitica
+- Transmitted by flea bites
+- Gram negative organism
+- Characteristic buboes form on skin
+- Uncontrolled spread can cause organ abscess, cutaneous hemorrhage, and tissue necrosis.
+- Yops secreted via type III secretion systems
+- Tetracyclines (with streptomycin) for treatment
+- Prairie dogs main reservoir in United States
+- Encapsulated
+- Causes bloody diarrhea
+- Grows at 42 degrees C
+- Poultry reservoir
+- Curved gram negative rod
+- Oxidase positive
+- Invasive
+- Reactive arthritis
+- Guillain-Barre syndrome - Ascending paralysis
+- Oxidase positive
+- Comma shaped mustache
+- Rice water stools
+- Watery diarrhea
+- Fecal-oral transmission
+- Gram negative
+- Fimbrae attachment
+- Increases cAMP
+- Activates Gs pathway
+- Oral rehydration therapy
+- Grows on alkaline media
+- Acid labile
+- Urease positive
+- Motile
+- Curved gram negative rod
+- Oxidase positive
+- Duodenal ulcers
+- Increased risk of gastric adenocarcinoma
+- Mucosa associated lymphoid tissues (MALT)
+- Proton Pump Inhibitor (PPI)
+- Amoxicillin
+- Clarithomycin
+- Duodenual ulcers
+- Catalase positive
+- Gram negative rod
+- Thrives in aquatic environment
+- Oxidase positive
+- Produces blue-green pigment (pyocyanin and pyoverdin)
+- Produces fruity grape odor
+- Obligate aerobe
+- Nosocomial pneumonia and respiratory failure in cystic fibrosis patients
+- Osteomyelitis in diabetics and IV drug users
+- Encapsulated
+- Infection associated with burn patients
+- Nosocomial urinary tract infections
+- Ecthyma gangrenosum - black necrotic lesions on skin
+- Otitis externa
+- Toxin inactivates EF-2 by ribosylation (Same mechanism as Diphtheria toxin)
+- Piperacillin for treatment
+- Fluoroquinolones
+- Aminoglycosides
+- Urease positive
+- Swarming motility when plated
+- Forms staghorn calculi
+- Alkaline environment can cause struvite stone production
+- May cause UTI
+- Fishy odor
+- Treat with sulfonamides
+- Filamentous hemagglutinin
+- Adenylate cyclase toxin: acts like Anthracis EF toxin
+- Pertussis toxin increases cAMP
+- Tracheal toxin
+- 100 day cough: convalescent stage can last for months
+- DTaP vaccine has acellular Pertussis  antigens
+- Lymphocytosis
+- Paroxysmal stage: Whooping cough
+- Gi disabled by Pertussis toxin
+- Pertussis toxin rirosylates Gi
+- Macrolide treatment
+- Transmitted by respiratory droplets
+- Coccobacillary shape
+- factor V (nicotinamide) added to chocolate agar
+- Rifampin prophylaxis for close contacts
+- Ceftriaxone for meningitis or systemic disease
+- Epiglottitis
+- Vaccine is polysaccharide conjugated to Diphtheria toxoid
+- Vaccine for ages 2-18 months
+- Factor X (hematin) added to chocolate agar
+- Strains with type B vaccine cause meningitis
+- Aerosol transmission
+- Grown on chocolate agar
+- Cherry red epiglottis
+- Increased risk of infection in sickle cell or asplenic patients
+- Otitis media
+- Meningitis in children
+- Vaccine for H. flu type B
+- Gram negative but needs silver stain to be visualized
+- High fever
+- May present with headache and confusion
+- b"Pneumonia with diarrhea suggestive of Legionnaires' disease "
+- Grown on charcoal yeast extract
+- Fluoroquinolone may also be used for treatment
+- Oxidase positive
+- Growth requires presence of iron and cysteine
+- Urine antigen test for rapid diagnosis
+- Hyponatremia
+- b"Legionnaires' disease more common in smokers "
+- X-ray shows patchy infiltrate with consolidation of one lobe
+- Pontiac fever: self limited fever and malaise
+- Macrolides for fever
+- Axillary lymphadenitis
+- Cat scratch fever occurs in immunocompetent patients (healthy young princess)
+- Cat scratch fever transmitted by cat scratches
+- Warthin-Starry stain
+- Macrolides can be used to treat either disease
+- Bacillary angiomatosis also transmitted by cat scratches.
+- Bacillary angiomatosis affects immunocompromised patients
+- Raised red vascular lesions in bacillary angiomatosis
+- Doxycycline treatment for bacillary angiomatosis
+- Axillary lymphadenitis
+- Direct contact: cow
+- Liver involvement
+- Gram negative
+- Splenic involvement
+- Ingestion of unpasteurized dairy products
+- Rifampin used for adjunctive therapy
+- Facultative intracellular organisms
+- Undulant fever
+- Doxycycline
+- Fever and anorexia
+- Osteomyelitis
+- Direct contact: pig
+- Painful ulcer at the site of infection
+- Transmitted by dermacentor tick
+- Regional lymphadenopathy
+- Rabbits are main reservoir
+- Facultative intracellular organism
+- Regional lymphadenopathy
+- Aminoglycosides for treatment
+- Granulomas with caseating necrosis in reticuloendothelial organs (i.e. lymph nodes)
+- Gram negative, coccobacilli
+- Catalase positive
+- Oxidase positive
+- Infection may spread to bone and cause osteomyelitis
+- Capsule is important virulence factor
+- Demonstrates double staining, described as a "safety pin"
+- Empiric treatment is penicillin
+- Cellulitis may occur within the first 24 hours
+- Transmitted by dog bites
+- Grows on 5% sheep agar
+- Primary TB: infects middle or lower lobe of lung
+- Primary TB: Hilar lymph node calcification
+- Mycobacterium cowboy: acid-fast gunslinger
+- cord factor
+- TB grows on Lowenstein-Jenses medium
+- Proliferates in macrophages
+- Symptoms of reactivation: cough, hemoptysis, night sweats
+- Obligate aerobe
+- Reactivated TB: affects upper lung lobes
+- CNS involvement with cavitary lesion or tuberculoma
+- b"Pott's disease "
+- RIPE: Rifampin, isoniozid, pyrazinamide, ethambutol
+- Reactivation with TNF alpha inhibitors
+- BCG vaccine can cause a false positive skin test
+- Latent infection
+- Positive PPD test
+- Fibrosis
+- Miliary TB can be lethal
+- Necrotic macrophages
+- Phagosome and lysosome unable to fuse
+- Sulfatides (spurs)
+- Mycolic acids
+- Carbol fuchin stain
+- Rifampin and isoniazid for prophylaxis
+- Ghon complex: Hilar lymphadenopathy + peripheral granulomatous lesion in middle or lower lung lobe
+- Miliary T
+- Tuberculoid leprosy: Th1 response with cell mediated immunity
+- Treatment: Dapsone
+- Tuberculoid leprosy: well-demarcated, hairless, hypoesthetic skin lesion
+- Tuberculoid leprosy: able to contain bacteria within macrophages
+- Tuberculoid leprosy: positive Lepromin skin test
+- Armadillo is main reservoir in United States
+- Treatment: Rifampin
+- Thrives in cool temperatures: predilection for extremities
+- Treatment: Clofazimine
+- Lepromatous leprosy: bacteria unable to be contained by macrophages
+- Lepromatous leprosy: Th2 mediated humoral response
+- Carbol fuchsin stain
+- Lepromatous leprosy: leonine facies
+- Lepromatous leprosy: symmetric glove and stocking neuropathy
+- Lepromatous leprosy: poorly demarcated raised lesions on extensor surfaces of extremities
+- Human to human transmission
+- Humoral response (laughing)
+- Mycolic acids
+- Mycobacterium cowboy: Acid-fast gunslinger
+- Transmitted by bite of tick living in wooded areas
+- Primarily Northeastern United States
+- b"Visualized by Wright's stain"
+- Flu-like symptoms
+- "Bull\\'s eye" rash
+- Spirochete
+- b"Bilateral Bell's palsy "
+- b"Bilateral Bell's palsy "
+- White-footed mouse main reservoir (host of tick larvae)
+- Doxycycline treatment if caught in early stage
+- Ixodes Scapularis species of tick
+- Tick is the vector
+- Ceftriaxone treatment if more severe or later presentation
+- Heart block caused by Myocarditis
+- White-tailed deer obligatory host (host of adult tick)
+- Encephalopathy
+- Migratory polyarthritis
+- Visualized by Giemsa stain
+- Conjunctival suffusion
+- Leptospira found in water contaminated with animal urine
+- b"Weil's disease can cause liver dysfunction and jaundice "
+- Described as spiral shaped or question mark shaped
+- b"Weil's disease "
+- Leptospira affects multiple different organs by hematogenous spread
+- Leptospira can cause kidney dysfunction
+- Fever
+- Spirochete: may be described as spiral shaped
+- Darkfield microscopy needed for direct visualization
+- Possible false positive antigens
+- FTA-ABS is specific test to confirm a positive screening result
+- Primarily syphilis characterized by painless genital chancre
+- Jarisch-Herxheimer reaction characterized by fever and chills
+- Congential- Saber shins, an anterior bowing of tibia
+- Congenital- saddle nose
+- Tertiary- aneurysm of ascending aorta with "tree-barking" appearance
+- Formation of gummas: soft growths with firm necrotic center
+- b"Congenital- Hutchinson's teeth and Mulberry molars "
+- Destroys vasa vasorum that supplies aorta with blood
+- Jarisch-Herxheimer reaction may occur hours after treatment
+- Congenital deafness
+- Tertiary: Argyll Robertson pupils, reacts to accommodation but NO REACTION TO LIGHT
+- Tertiary: damage to posterior column of spinal cord
+- Treatment: Penicillin for all stages
+- Test spot
+- Systemic disease
+- May see condyloma latum on mucous membranes
+- Maculopapular rash occurs on palms and soles weeks to months after infection
+- Spirochetes can be visualized within condyloma latum via darkfield microscopy
+- VDRL is a screening test for trepenoma
+- Add Ceftriaxone to treatment for gonorrhea coinfection
+- Obligate intracellular organism
+- Poor gram staining
+- Cell wall lacks muramic acid
+- 1st lifestyle stage: elementary body, infectious form, outside of organism and needs to enter
+- 1st lifestyle stage: elementary body, infectious form, outside of organism and needs to enter
+- 2nd stage: reticular body active form that can divide and replicate
+- Final stage: release back out of cell into elementary body
+- Inclusion bodies visible within cells under microscope
+- May be visualized with Giemsa stain
+- Commonly diagnosed by NAAT (nucleic-acid amplification test)
+- D-K STI characterized by watery discharge
+- D-K STI If left untreated, may lead to pelvic inflammatory disease (PID)
+- D-K STI Newborns born to infected mothers can develop conjunctivitis and pneumonia
+- L1-L3 LGV Lymphogranuloma venereum characterized by tender inguinal lymphadenopathy
+- A-C blindness leading cause of blindness world wide
+- A-C: blindness  transmitted by hand to eye contact, or fomites
+- Reactive arthritis
+- b"Reiter's syndrome- uveitis"
+- b"Reiter's syndrome- urethritis"
+- b"Reiter's syndrome- arthritis"
+- Chlamydophila pneumoniae causes atypical pneumonia
+- Chlamydophila psittaci also causes pneumonia, transmitted by bird droppings
+- May use macrolides for treatment, oral macrolides effective against trachoma
+- Doxycycline is effective treatment
+- Commonly coinfected with gonorrhea
+- Chlamydia divided into three groups, Trachomatis also divided into three groups
+- Headache
+- Gram negative
+- No rash caused
+- Q-fever
+- Obligate intracellular organism
+- Contained in spore like structures in animal feces
+- Transmitted to humans via aerosol transmission, farm animals are major reservoir
+- Pneumonia
+- Fever
+- May cause hepatitis
+- Metronidazole for treatment
+- Gram variable staining
+- Bacterial overgrowth that disrupts normal flora is method of infection
+- Grayish-white malodorous "fishy" discharge
+- Infection occurs when pH over 4.5
+- KOH whiff test
+- Clue cell = epithelial cells coated with bacteria visible under microscope
+- Macrolide for treatment because no cell wall
+- b"No cell wall, can't appear on gram stain"
+- Cell membrane contains cholesterol
+- X-ray shows reticulonodular or "patchy" infiltrate, appears much worse than patients seem clinically
+- Walking pneumonia
+- Common in military recruits living in close quarters
+- Commonly occurs in young adults
+- IgM cold agglutinins cause agglutination of red blood cells
+- b"Eaton's agar"
+- Poor gram staining
+- Headache and fever in early Rickettsial infection
+- Rash may be associated with vasculitis
+- Doxycycline for treatment
+- Weakly gram negative
+- Coccobacillary shape
+- Unable to produce CoA, gets it from eukaryotic cells
+- Vasculitis
+- Unable to produce NAD+, important for bacterial growth and reproduction
+- Weil-Felix agglutination test for Rickettsial infections
+- Obligate intracellular organism
+- Encephalitis, with and confusion. can cause coma if very serious
+- Obligate intracellular organism
+- Require CoA and NAD+ for growth
+- Doxycycline treatment
+- Rash starts at trunk, and spreads outward towards extremities
+- Rash spares hands, head, and feet
+- Affects military camp recruits and prisoners of war
+- Spread by louse, defecates near bite spread to blood by scratching.
+- Spread by louse
+- Spread by louse
+- Illness is called epidemic typhus
+- Causes myalgia and arthalgia
+- Causes pneumonia
+- Doxycycline for treatment
+- Obligate intracellular organism
+- Poor gram staining
+- CoA and NAD+ necessary for growth, provided by host
+- Transmitted by direct bite of Dermacentor ticks
+- Transmitted by direct bite of Dermacentor ticks
+- Rash not immediate, incubation period between 2-14 days
+- Rash begins at extremities
+- Rash spreads centrally from extremities
+- Symptoms include headache, fever, myalgias

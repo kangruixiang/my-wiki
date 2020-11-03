@@ -4,18 +4,92 @@
 
 # Lupus
 
-<!-- lupus heart problems -->
+<!-- lupus demographics -->
 
-Systemic lupus erythematosus (SLE) is a significant risk factor for the development of **premature coronary atherosclerosis** and coronary artery disease (CAD).  SLE is associated with **accelerated atherosclerosis** due to a combination of traditional (eg, hypertension, hyperlipidemia) and disease-related risk factors (eg, chronic inflammation, glucocorticoid use).  Compared to other women age 35-44, patients with SLE have an almost 50-fold increase in CAD risk.  CAD is a significant contributor to premature death in SLE patients.  For this reason, the most likely cause of this patient's death is myocardial infarction (with secondary ventricular arrhythmias) due to premature CAD.
+![](https://i.imgur.com/0JBLtMZ.jpg)
 
-Pericarditis is a common cardiac complication of SLE.  These patients typically exhibit positional substernal chest pain with friction rub on auscultation.  It is usually associated with other symptoms of serositis (eg, dyspnea due to pleural effusion).  However, large pericardial effusions and/or tamponade are rare in patients with SLE.
+![](https://i.imgur.com/J3n9dYp.jpg)
 
-<!--  lupus anti-dsDNA uses -->
+- UV light may trigger
 
-This patient's high-titer ANA and mild cytopenia further support a diagnosis of systemic lupus erythematosus (SLE).  Anti-dsDNA antibodies are helpful to confirm a diagnosis of SLE, but are also useful to follow the course of disease.  In some patients, titers of anti-dsDNA antibodies correlate with disease activity.  Anti-dsDNA antibody levels have also been associated with the development of lupus nephritis—immune complexes containing these antibodies are actually seen within the glomeruli of patients with lupus nephritis.  Rising titer levels of anti-dsDNA antibodies can be helpful in confirming that the underlying lupus is the cause of a clinical problem as opposed to infection, medication toxicity, or unrelated disease.
+# Diagnosis
 
-<!-- drug induced lupus sx, dx, drugs -->
+<!-- lupus antibodies and diagnosis -->
 
-This patient's presentation – fatigue, night sweats, arthralgia/arthritis, and pleuritis/pleural effusion – is suggestive of **drug-induced lupus** due to **hydralazine**.  It is seen in approximately 5%–10% of patients receiving hydralazine  and occurs due to development of autoantibodies that trigger an  autoimmune response and a clinical syndrome similar to systemic lupus  erythematosus. Other autoantibodies, with the exception of **anti-histone antibodies**, are uncommon in this disorder.
+![](https://i.imgur.com/0cVJ7dr.jpg)
 
-Drug-induced lupus causes **multisystem involvement**, and clinical findings can include fever, malaise, myalgia,  arthralgia/arthritis, serositis (pleuritis, pericarditis), and/or  hepatomegaly/splenomegaly. The diagnosis is made by a history of one or more offending drugs and a positive test for **antinuclear antibodies (ANAs)**. Some common drugs associated with risk of lupus include **procainamide, hydralazine, minocycline**, and anti-tumor necrosis factor (TNF) alpha therapy (**etanercept, infliximab**).  Treatment is generally symptomatic, and discontinuation of the  offending drug typically leads to resolution of symptoms within weeks to months.
+- hallmark: ANA, low C3/C4
+- once antibody antigen form: circulate plasma
+
+![](https://i.imgur.com/tzRpGZN.jpg)
+
+- on exam: ANA either positive or negative
+- continue to dilute sample until can't see
+
+![](https://i.imgur.com/63tOIvX.jpg)
+
+- anti-dsDNA rise in flares
+
+![](https://i.imgur.com/c7alJ3L.jpg)
+
+- ribonucleoprotein: rna and protein
+
+<!-- antibody panels and diseases -->
+
+![](https://i.imgur.com/kweIk55.jpg)
+
+![](https://i.imgur.com/uZlAYB4.jpg)
+
+- arterial thrombosis uncommon
+
+![](https://i.imgur.com/fkfkzVw.jpg)
+
+![](https://i.imgur.com/NOrVTtB.jpg)
+
+# Symptoms
+
+<!-- lupus symptoms -->
+
+![](https://i.imgur.com/bwepF8i.jpg)
+
+- symptoms not constant, flares then remission
+
+![](https://i.imgur.com/kEocall.jpg)
+
+![](https://i.imgur.com/hkrcQ9a.jpg)
+
+![](https://i.imgur.com/nbavlcd.jpg)
+
+- penias: type 2 not type 3
+
+![](https://i.imgur.com/Jn5R9J2.jpg)
+
+![](https://i.imgur.com/jTXRN8A.jpg)
+
+![](https://i.imgur.com/omxrjBj.jpg)
+
+<!-- drug induced lupus antibody and drugs -->
+
+![](https://i.imgur.com/VRkJbAb.jpg)
+
+- serious complications are rare
+
+# Treatment
+
+<!-- lupus treatment -->
+
+![](https://i.imgur.com/Th5vfVt.jpg)
+
+# Neonatal Lupus
+
+<!-- neonatal lupus pathogenesis, association, antibody, symptoms -->
+
+![](https://i.imgur.com/BbWJtTg.jpg)
+
+- very different
+- sjogren's: very common with SSA/Ro and SSB/La (can also have these antibodies in lupus)
+
+![](https://i.imgur.com/Cc83gIl.jpg)
+
+- not malar
+- pacemaker for rest of life
