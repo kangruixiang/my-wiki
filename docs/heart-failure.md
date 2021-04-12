@@ -4,6 +4,8 @@
 
 # heart failure
 
+- related: [[Cardiology]], [[HFpEF]]
+
 ## Causes
 
 Drug induced cardiomyopathy includes [[trastuzumab and anthracycline]].

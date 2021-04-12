@@ -12,6 +12,7 @@
 - [[hot tub folliculitis]]
 - [[erythema nodosum]]
 - [[skin and soft tissues infections]]
+- [[Sweet syndrome]]
 
 ## Impetigo
 

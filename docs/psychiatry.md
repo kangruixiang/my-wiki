@@ -19,6 +19,8 @@
 - [[drug intoxications]]
 - [[do not start antidepressant monotherapy in bipolar]]
 - [[SPIKES]]
+- [[depression and anxiety 12 2020 notes]]
+- [[narcolepsy]]
 
 # Personality Disorders
 

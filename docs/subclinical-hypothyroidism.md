@@ -4,7 +4,7 @@
 
 # Subclinical hypothyroidism
 
-[[Elderly patients have higher TSH concentration]]
+- related: [[Endocrine]], [[Elderly patients have higher TSH concentration]]
 
 <!-- subclinical hypothyroidism common cause, when to treat -->
 

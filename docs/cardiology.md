@@ -23,3 +23,4 @@
 - [[cardiogenic syncope]]
 - [[DVT and PE]]
 - [[left axial myxoma]]
+- [[SvO2]]

@@ -16,6 +16,9 @@
 - [[rapid sequence intubation]]
 - [[BPH]]
 - [[code status]]
+- [[airway management]]
+- [[goals of care]]
+- [[capacity and competency]]
 
 ## Poisoning
 
@@ -118,21 +121,7 @@ This child has severe wounds with evidence of contamination (eg, bite wound, spe
 
 The **13-valent conjugated pneumococcal vaccine (PCV13)** is recommended for all adults age >65; it should be followed by the **23-valent pneumococcal polysaccharide vaccine (PPSV23)** 6-12 months later **(Choice B)**.  Sequential PCV13 and PPSV23 are also recommended for adults age <65  with certain high risk underlying conditions (eg, cerebrospinal fluid  \[CSF] leaks, sickle cell disease, cochlear implants, congenital/acquired asplenia, immunocompromise, chronic renal failure). PPSV23 alone is  recommended for adults age <65 with other chronic medical conditions  including smoking, diabetes, heart or lung disease, and chronic liver  disease.
 
-## Narcolepsy
-
-<!-- narcolepsy diagnosis -->
-
-![image-20200310211337671](https://photos.thisispiggy.com/file/wikiFiles/image-20200310211337671.png)
-
-Insufficient sleep is the most common cause of excessive daytime  sleepiness (EDS). Other common causes can include medication effects,  alcohol or illicit drug use, and obstructive sleep apnea. However, in  addition to EDS, this patient experiences fragmented sleep, hypnagogic  hallucinations, and the sudden onset of sleep during the day, features  consistent with **narcolepsy**. The typical age of onset for narcolepsy is late teens to early 20s. **Polysomnography** (sleep study) can diagnose narcolepsy; characteristic findings include  multiple spontaneous awakenings and reduced sleep efficiency (total  sleep time divided by total recording time) and latency of rapid eye  movement (REM) sleep. Polysomnography can also exclude other causes of  EDS (eg, sleep apnea).
-
-<!-- narcolepsy rx -->
-
-The focus of therapy for  patients with narcolepsy is on reducing excessive daytime sleepiness  (EDS). Older stimulant medications (eg, methylphenidate, amphetamines)  are effective but can be highly addictive and have severe side effects.  **Modafinil** is a novel stimulant that has a better side  effect profile and lower abuse potential; it is now the first-line  pharmacotherapy for narcolepsy.
-
-Nonpharmacologic  interventions are equally important in management of EDS. Patients can  temporarily stall the powerful sleep drive of narcolepsy by taking  scheduled naps during the day. Sleep fragmentation and insomnia are  prominent features of narcolepsy, making good sleep hygiene necessary.  Patients with narcolepsy do not necessarily need more sleep than normal  patients; however they acquire their sleep during several, sometimes  involuntary, sleep periods during the day.
-
-**Cataplexy (CP)** is the sudden onset of **muscle weakness**, often triggered by intense **emotional episodes** (eg, anger, laughing, surprise) and is a common symptom of narcolepsy.  CP is a pathognomonic symptom that occurs in roughly 70% of patients  with narcolepsy. Although stimulants and behavioral interventions are  important initial steps in the treatment of sleepiness associated with  narcolepsy, they may be insufficient for management of CP. Patients  with CP can be treated with a **serotonin-norepinephrine reuptake inhibitor** (eg, venlafaxine) or selective serotonin reuptake inhibitor, and a tricyclic antidepressant can also be considered. **Sodium oxybate** (the salt form of gamma-hydroxybutyrate) can improve nocturnal sleep,  relieve excessive daytime sleepiness and has anti-cataplectic  properties; however, it is rarely used due to abuse potential and  restrictive regulations.
+- [[narcolepsy]]
 
 ## Coin ingestion
 

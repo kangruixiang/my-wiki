@@ -2,7 +2,11 @@
 - date: 2020-09-07
 ---
 
+- related: [[Nephrology]]
+
 # SIADH
+
+![20201209135627](https://photos.thisispiggy.com/file/wikiFiles/20201209135627.png)
 
 <!-- triggers for SIADH -->
 

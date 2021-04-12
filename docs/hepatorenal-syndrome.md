@@ -11,8 +11,8 @@
 <!-- hepatorenal syndrome causes and pathogenesis -->
 
 - important complication of end stage liver disease
-- liver: portal HTN => increase NO, vasodilators => **splanchnic arterial dilation** (celiac, superior mesenteric, and inferior mesenteric arteries) => hypotension
-- kidney: decrease in renal perfusion => activates RAAS => **renal vasoconstriction** with **decreased** perfusion and **glomerular filtration**.
+- liver: cirrhosis => increased intrahepatic vascular resistance => portal HTN => increase NO, vasodilators => **splanchnic arterial dilation** (celiac, superior mesenteric, and inferior mesenteric arteries) => hypotension
+- kidney: decrease in renal perfusion => activates RAAS/vasopressin => **renal vasoconstriction** with **decreased** perfusion and **glomerular filtration**.
 
 <!-- hepatorenal syndrome triggers -->
 
@@ -31,12 +31,12 @@ Triggers:
 - decreased renal perfusion (decrease in GFR) without another clear cause
 	- Cr > 1.5
 	- BUN:Cr elevated > 20:1
-- no tubular injury: no RBC, protein, granular casts in urine
+- **no tubular injury**: no RBC, protein, granular casts in urine
 	- protein excretion < 500 mg/d
 - no obstruction: US benign
 - Hyponatremia (dilutional hyponatremia)
 	- low Na excretion in urine (<10 mmol/L)
-- lack of improvement with volume resuscitation (BUN:Cr could be high in either prerenal or hepatorenal)
+- **lack of improvement with volume resuscitation** (BUN:Cr could be high in either prerenal or hepatorenal)
 - look for triggers: **paracentesis** if has ascites
 
 ## Treatment

@@ -5,3 +5,5 @@
 # Geriatrics
 
 - [[Insomnia and geriatrics]]
+- [[ALF]]
+- [[Dementia]]

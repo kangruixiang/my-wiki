@@ -8,8 +8,21 @@
 
 ![image-20200901080803886](https://photos.thisispiggy.com/file/wikiFiles/image-20200901080803886.png)
 
-Acute diarrhea is defined as diarrhea lasting <14 days.  Most cases are due to viral pathogens and are characterized by bland, watery diarrhea and a self-limited course.  In contrast, acute diarrhea with visible blood or mucus **(dysentery)** is more likely due to **bacterial infection** and is often associated with abdominal pain and systemic symptoms (eg, fever, malaise).  Major causes include enterohemorrhagic _Escherichia coli_ (\[EHEC] eg, O157:H7), _Shigella_, _Campylobacter_, and _Salmonella_.  Noninfectious causes include inflammatory bowel disease and ischemic colitis.
-
-The initial evaluation of dysentery should include a **stool culture**, immunoassay for **Shiga toxin**, and **fecal leukocyte** count.  An unexpectedly low fecal leukocyte count can suggest invasive amebiasis, although this is uncommon in developed countries.  Imaging (eg, CT scan of the abdomen) is not usually needed unless there is suspicion for ischemic colitis.  Endoscopy is not needed immediately for most patients but could be considered for those with recurrent or persistent (>2 weeks) symptoms **(Choice B)**.
-
-Many experts advise empiric antibiotic therapy for patients with acute dysentery unless EHEC is suspected (antibiotic therapy in EHEC has been associated with increased risk for hemolytic uremic syndrome).  However, oral antibiotics (eg, ciprofloxacin) are preferred.
+- pathogenesis:
+	- mostly viral
+	- if **dysentery** (with blood/mucus), then more likely bacterial
+	- bacterial: EHEC, Shigella, Campylobacter, Salmonella
+	- Noninfectious: IBD, ischemic colitis
+- symptoms:
+	- last < 14 days
+	- watery diarrhea
+	- bacterial: more abdominal pain and systemic sx
+- diagnosis:
+	- **stool culture**
+	- immunoassay for **Shiga toxin**
+	- **fecal leukocyte** count. An unexpectedly low fecal leukocyte count can suggest invasive amebiasis, although this is uncommon in developed countries.
+- Imaging (eg, CT scan of the abdomen) is not usually needed unless there is suspicion for ischemic colitis.  Endoscopy is not needed immediately for most patients but could be considered for those with recurrent or persistent (>2 weeks) symptoms
+- treatment:
+	- mostly self limited
+	- bland, watery diarrhea and a self-limited course.
+	- empiric antibiotic therapy for patients with acute dysentery unless EHEC is suspected (antibiotic therapy in EHEC has been associated with increased risk for hemolytic uremic syndrome).  However, oral antibiotics (eg, ciprofloxacin) are preferred.

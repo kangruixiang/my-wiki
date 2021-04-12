@@ -6,7 +6,6 @@
 
 - related: [[UTI]]
 
-
 <!-- urethral diverticulum sx, physical exam, dx -->
 
 ![image-20200208092720463](https://photos.thisispiggy.com/file/wikiFiles/image-20200208092720463.png)

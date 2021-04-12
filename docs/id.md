@@ -16,6 +16,7 @@
 - [[EBV]]
 - [[RSV]]
 - [[HIV]]
+- [[HSV]]
 - [[HIV exposure]]
 - [[BK virus]]
 - [[shingles]]
@@ -32,6 +33,7 @@
 - [[PCP]]
 - [[coccidioidomycosis]]
 - [[ABPA]]
+- [[histoplasmosis]]
 
 ## Bacterial
 
@@ -56,6 +58,10 @@
 - [[shigella]]
 - [[Pasteurella]]
 - [[MRSA risks]]
+- [[MSSA vanc vs cefazolin]]
+- [[yersinia]]
+- [[salmonella]]
+- [[anthrax]]
 
 ## Parasites
 
@@ -63,6 +69,9 @@
 - [[Helminths]]
 - [[Malaria notes]]
 - [[Entamoeba Histolytica]]
+- [[plasmodium]]
+- [[cryptosporidium]]
+- [[cyclospora]]
 
 ## Iatrogenic
 
@@ -73,6 +82,7 @@
 - [[genital ulcers]]
 - [[asymptomatic bacteriuria]]
 - [[neisseria gonorrhea]]
+- [[syphillis]]
 
 ## Bones and Joints
 
@@ -87,3 +97,6 @@
 - [[abscesses]]
 - [[foodborne illnesses]]
 
+## Otheres
+
+- [[transplant infection]]

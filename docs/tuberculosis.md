@@ -4,7 +4,7 @@
 
 # Tuberculosis
 
-- related: [[ID]]
+- related: [[ID]], [[TB note 11 4]], [[MAC]], [[mycobacterium kansasii]], [[rapid growsers]], [[marinum]], [[gordonae]]
 
 <!-- TB diagnosis tests -->
 

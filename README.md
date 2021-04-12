@@ -33,5 +33,5 @@
 - [[OBGYN]]
 - [[Pediatric]]
 - [[pharmacology]]
-
-- [[fdsafdsafdsaf]]
+- [[major trials]]
+- [[emergency medicine]]

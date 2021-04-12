@@ -18,9 +18,13 @@
 - [[warfarin]]
 - [[transfusion goals]]
 - [[heparin induced thrombocytopenia]]
+- [[disseminated intravascular coagulation]]
+- [[TTP]]
 
 ## Oncology
 
 - [[Paget disease]]
 - [[prostate cancer]]
 - [[febrile neutropenia]]
+- [[leukostasis]]
+- [[tumor lysis syndrome]]

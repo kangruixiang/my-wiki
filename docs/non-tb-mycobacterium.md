@@ -4,7 +4,7 @@
 
 # non TB mycobacterium
 
-- related: [[ID]]
+- related: [[ID]], [[TB meningitis]], [[Tuberculosis]]
 
 ## M Fortuitum
 

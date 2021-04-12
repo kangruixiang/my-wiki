@@ -4,7 +4,7 @@
 
 # CAP antibiotics
 
-- related: [[community acquired pneumonia]]
+- related: [[community acquired pneumonia]], [[pneumonia vaccine]]
 
 <!-- CAP empiric abx and duration, outpatient vs inpatient vs ICU -->
 
@@ -24,9 +24,7 @@
 	- Inpatient
 		- Switch from IV to oral when sx improve, afebrile on 2 occasions 8 hours apart, tolerating PO. 24-48 hrs
 
-
 ![20201026135046](https://photos.thisispiggy.com/file/wikiFiles/20201026135046.png)
-
 
 Ambulatory empiric therapy for CAP is directed against **S. pneumoniae, Haemophilus influenzae, and atypical bacteria**, even though a significant proportion of patients with CAP infected with viral pathogens do not benefit from antibiotic therapy. In otherwise healthy patients, regimens include **monotherapy** with amoxicillin, doxycycline, or a macrolide (either azithromycin or clarithromycin if pneumococcal resistance to macrolides is less than 25%).
 
@@ -51,3 +49,7 @@ For patients with uncomplicated CAP who demonstrate clinical improvement (demons
 [2]: https://mksap18.acponline.org/app/topics/id/tables/mk18_b_id_t12
 
 [3]: https://mksap18.acponline.org/app/topics/id/tables/mk18_b_id_t12
+
+![image-20200119203959102](https://photos.thisispiggy.com/file/wikiFiles/image-20200119203959102.png)
+
+Empiric intravenous antibiotics with an anti-pneumococcal beta lactam (eg, **ceftriaxone**) and an advanced macrolide (eg, **azithromycin**) or a respiratory fluoroquinolone (eg, **levofloxacin**). This provides coverage for the most common typical (eg, _Streptococcus pneumoniae_) and atypical (eg, _Legionella_) CAP organisms.

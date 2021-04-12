@@ -17,6 +17,8 @@
 - [[Barrett's]]
 - [[GERD]]
 - [[nutrition assessment]]
+- [[dysphagia]]
+- [[achalasia and pseudoachalasia]]
 
 ## Lower GI
 
@@ -26,6 +28,11 @@
 - [[AVM]]
 - [[Celiac Disease]]
 - [[acute diarrhea]]
+- [[opioid induced constipation]]
+- [[constipation]]
+- [[laxatives]]
+- [[lower GI bleed]]
+- [[IBS]]
 
 ## ID
 
@@ -37,9 +44,13 @@
 - [[splenic vein thrombosis]]
 - [[portal vein thrombosis]]
 - [[PSC]]
+- [[PBC]]
 - [[acute pancreatitis]]
 - [[acute cholangitis]]
 - [[acalculous cholecystitis]]
 - [[pylephlebitis]]
 - [[hepatorenal syndrome]]
 - [[TIPS procedure]]
+- [[acid and base in liver disease]]
+- [[acute liver failure]]
+- [[hepatopulmonary syndrome]]

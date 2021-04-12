@@ -8,24 +8,28 @@
 
 <!-- Don't start HAART with which opportunistic infection with HIV -->
 
+- cryptococcus
 - Starting HAART can cause IRIS
 - Wait 5 weeks before starting HAART
 
 <!-- ignore -->
 
 Types:
+
 - neoformans most common
 - agathi: more tropical. Has decreased activity to fluconazole
 - usually inhaled
 
 Demographics
+
 - BMT: less b/c ppx fluconazole
-- alemduzumab: CD 52 
+- alemduzumab: CD 52
 - corticosteroids use
 - calcineurin inhibitors have protected role against crypto
 - Usually dormant for many years, reactivate with immunosuppression
 
 Sx
+
 - localized pneumonitis w or w/o sx
 - dyspnea, cp, cough, fever, headache, meningitis sx, lethargy, confusion, photophobia
 - subacute: 2-3 weeks
@@ -34,6 +38,7 @@ Sx
 - other organs: skin, soft tissue, bone, joints
 
 Dx:
+
 - cryptococcal antigen very good for dx
 - LP: WBC not much changes, predominant monocytes, low/nl glucose, elevated protein
 - no need to order fungal blood clx but send a fungal CSF culture b/c higher sensitivity
@@ -41,19 +46,19 @@ Dx:
 - crypto antigen not good monitor tool (dead organism can cause positive antigen)
 - negative culture and glucose better for monitoring
 
-Mortality: 
+Mortality:
+
 - CSF titer > 1000 or mental status changes = increased mortality
 
 Treatment:
-- induction with amphoteracin b liposomal form with flucytocin 
+
+- induction with amphoteracin b liposomal form with flucytocin
 - 2 week therapy with amphoteracin b then flucytosine for 8 weeks then suppressive therapy
 - intracranial pressure: LP until CSF pressure <25. Improves survival
 - reduce degree of immunosuppression: treat HIV, reduce immunosuppression in transplant. Don't change calcineurin inhibitors
 - HIV: screen for crypto
 - IRIS: improvement of immune function, reaction against organism = increased inflammatory process. Wait 8 weeks before HAART therapy
 - severe sx: try prednisone
-
-
 
 ## Cyrptococcus
 

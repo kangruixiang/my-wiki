@@ -8,4 +8,3 @@
 - [[urethral diverticulum]]
 - [[recurrent UTI]]
 - [[UTI treatment]]
-

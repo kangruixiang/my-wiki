@@ -43,6 +43,8 @@ Other advantages of LRs are that they can be used with tests that have >2 possib
 
 ![image-20200821070909419](https://photos.thisispiggy.com/file/wikiFiles/image-20200821070909419.png)
 
+![20201216144105](https://photos.thisispiggy.com/file/wikiFiles/20201216144105.png)
+
 ## Predicative Values
 
 <!-- ignore -->

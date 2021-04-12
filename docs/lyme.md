@@ -4,7 +4,7 @@
 
 # Lyme
 
-- related:[[ID]], [[post lyme disease syndrome]]
+- related:[[ID]], [[post lyme disease syndrome]], [[neuroborreliosis]]
 
 <!-- lyme disease stages and sx -->
 

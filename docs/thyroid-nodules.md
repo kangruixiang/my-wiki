@@ -4,6 +4,8 @@
 
 # Thyroid nodules
 
+- related: [[Endocrine]]
+
 <!-- thyroid nodules management -->
 
 ![Thyroid nodules work up](https://www.uworld.com/media/L8053.jpg)

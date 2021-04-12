@@ -4,6 +4,16 @@
 
 # lumbar puncture
 
+- related: [[Neurology]]
+
+## CSF lactate
+
+<!-- significance of CSF lactate -->
+
+- Lactate > 4 is sign of infection
+
+## Traumatic tap
+
 <!-- traumatic tap is, ratio -->
 
 A RBC count exceeding 6,000/mm3 may indicate traumatic LP, but other  important causes, mainly subarachnoid hemorrhage (SAH), should be ruled  out. WBC elevation in traumatic LP is commonly explained by the blood  leak if approximately one WBC is present per 750-1000 RBCs. The protein level is elevated in the presence of traumatic LP, and the glucose  level is typically high.

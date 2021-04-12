@@ -10,7 +10,7 @@
 - Pathogenesis: staph aureus: toxic shock syndrome toxin acts as superantigens, active T cell directly without antigen recognition cell, releasing massive cytokines.
 - Sx: rapid progression
 	- prodrome: fever, chills, myalgias
-	- multicystemic syndrome: hypotension, shock
+	- multisystemic syndrome: hypotension, shock
 - Rx:
 	- remove foreign body
 	- fluid replacement, extensive, sometimes 20L per day

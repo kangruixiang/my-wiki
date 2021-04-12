@@ -13,6 +13,8 @@
 
 - [[Postpartum thyroiditis]]
 
+- [[subacute thyroiditis]]
+
 - [[subclinical hyperthyroidism]]
 
 - [[hyperthyroidism]]

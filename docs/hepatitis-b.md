@@ -4,47 +4,83 @@
 
 # Hepatitis B
 
-- related: [[GI]], [[hepatitis b vaccine]]
+- related: [[GI]], [[hepatitis b vaccine]], [[hep B post exposure management]], [[Perinatal Hep B]]
 
-<!-- hep B post-exposure management -->
-
-![image-20200601203613066](https://photos.thisispiggy.com/file/wikiFiles/image-20200601203613066.png)
-
-Source patients positive for both HBsAg and HBeAg have transmission rates of 40%-60%; those with only HBsAg positivity have reduced transmission rates of 20%-40%. As a result, all health care workers (HCWs) are required to be offered hepatitis B vaccination by their employer. Immune response (ie, hepatitis surface antibody >10 mIU/mL) should be documented 1-2 months after the last vaccine dose. HCWs who do not respond to the first series of injections should be revaccinated.
-
-HCWs with an adequate response to the vaccine (initial hepatitis surface antibody \[HBsAb] titer of >10 mIU/mL) are not at risk of contracting the virus and do not require post-exposure prophylaxis even if subsequent antibody titers fall below the threshold for immunity. **Post-exposure prophylaxis** for exposed **nonimmune** HCWs (unvaccinated or incomplete response to initial vaccination series) involves immediate **simultaneous administration** of both **hepatitis B immunoglobulin** (HBIG) and **HBV vaccine** (at different sites). The HCW should then receive the remaining 2 series of HBV vaccine according to the routine schedule.
-
-## Perinatal Hep B
-
-<!-- perinatal hep B risks, dx, prevention -->
-
-![image-20200311202604502](https://photos.thisispiggy.com/file/wikiFiles/image-20200311202604502.png)
-
-Infants born to mothers with active hepatitis B infection are at risk for acquiring hepatitis B either in utero or, more commonly, during **delivery** due to exposure to infected genital secretions. Maternal **viral load** is the primary risk factor and directly correlates with the risk of vertical transmission to the infant. However, with prompt administration of **hepatitis B vaccine** and **immunoglobulin** to the infant, the risk for infection decreases to <5%.
-
-Infants who are vertically infected with hepatitis B generally develop **chronic** infection in an **immune-tolerant** phase. These infants characteristically have very high viral loads and positive HBeAg, but remain asymptomatic and have normal or minimally elevated liver enzymes. Therefore, liver function tests cannot be used to detect infection **(Choice E)**. Instead, exposed infants should receive the hepatitis B vaccine and immunoglobulin within 12 hours of birth, followed by completion of the **normal hepatitis B series** (at age 0, 2, and 6 months). Serology should be obtained at the subsequent well-child visit, usually at age 9 months. If HBsAg is not detected at that time, the infant is uninfected.
-
-
-## Hepatitis B
-
-<!-- acute HBV rx, liver failure criteria -->
-
-**Acute hepatitis B** virus (HBV)  infection is characterized by elevated aminotransferases, positive  hepatitis B surface antigen, hepatitis B IgM core antibody, hepatitis B e antigen (indicator of high infectivity), and detectable hepatitis B  DNA. Nearly 70% of patients with acute HBV infection are asymptomatic.  The remaining 30% develop symptoms such as anorexia, nausea, jaundice,  and right upper quadrant discomfort; however, even symptomatic patients  are at **very low risk** of acute **liver failure** or other significant complications. Therefore, unlike many forms of  acute liver injury, most cases of acute HBV (even with marked elevations in aminotransferases) **resolve spontaneously** and can be managed with **outpatient supportive care and close follow-up**.
-
-Hospitalization is typically reserved for patients with severe illness, increased risk  of short-term complications, or significant comorbid conditions. This  generally includes patients with significant fever or hemodynamic  instability, impaired hepatic synthetic function (eg, abnormal  coagulation markers), or other signs of acute liver failure (eg,  encephalopathy). Hospitalization can also be considered for patients  age >50, have poor oral intake, or have minimal social support.
-
-Antiviral therapy is recommended for patients with  immunosuppression, concurrent hepatitis C, severe hepatitis, or  fulminant hepatic failure.
-
-Although most patients with evidence of acute liver injury require  admission for evaluation and management, those with clear evidence of  acute HBV are extremely unlikely to develop liver failure or associated  complications and do not require hospitalization if close outpatient  monitoring can be arranged.
-
-The 3 criteria for acute liver failure are evidence of hepatic injury  (eg, elevated aminotransferases), encephalopathy, and INR ≥1.5; this  patient has only 1 of these 3 criteria. Given the very low risk of  progression to acute (fulminant) liver failure due to acute HBV  infection (<1%), admission to the intensive care unit is not  warranted.
-
-Liver  biopsy is indicated for patients with unclear etiology of hepatic injury after initial evaluation or for staging of chronic liver disease prior  to treatment. It is not needed in this patient with acute hepatitis who has a clear cause of disease.
-
-As patients recover from **acute hepatitis B** virus (HBV) infection, there is normally a **steady drop** in both **aminotransferase** and **HBV DNA levels**.  Aminotransferase levels typically normalize within 2-8 weeks. Patients who do not clear hepatitis B surface antigen after 6 months are  diagnosed with progression to chronic HBV infection. In addition, some  patients may develop complications such as acute liver failure or  coagulopathy during the initial phase of infection. Consequently,  patients should be **monitored regularly** to evaluate for the development of chronic HBV infection or hepatic decompensation.
-
-Symptom resolution is variable and partially depends on severity of initial  presentation. Patients with a milder onset may recover completely  within days, whereas those with a more severe presentation (eg,  bilirubin >10 mg/dL) may report fatigue and nausea for months  following acute infection.
-
-Antiviral therapy has not been demonstrated to significantly change the course of acute HBV infection, but it may be considered for patients  who have acute liver failure, immunosuppression, concomitant hepatitis C or D, or preexisting liver disease.
+![20210412085031](https://photos.thisispiggy.com/file/wikiFiles/20210412085031.png)
 
 ![image-20200225201016078](https://photos.thisispiggy.com/file/wikiFiles/image-20200225201016078.png)
+
+## Acute Infection
+
+- sx:
+	- 70% asymptomatic
+	- 30% nausea, anorexia, jaundice, RUQ pain. Resolve spontaneously
+	- 0.5% ALF
+- labs:
+	- ALT elevation (as high as 3000 u/L)
+	- \+hep B surface ag
+	- \+hep B IgM antibody
+	- \+hep B e ag (high infectivity)
+	- detectable B DNA
+- treatment:
+	- self limited. Milder onset resolve in days. More severe sx may persist for 1-4 months
+	- outpatient observation
+	- hospitalization: severe illness, unstable, encephalopathy
+	- antiviral not shown to change course of infection
+	- antiviral recommended for patients with immunosuppression, concurrent hep C or D, hepatic failure
+	- chronic HBV: patients who do not clear hep B surface ag after 6 months
+
+## Transmission
+
+- vertically
+	- newborns have highest risks (90%)
+- sexually
+- percutaneously
+- close person to person contact
+
+## Testing
+
+- high rates: Asia, Africa, the South Pacific, European Mediterranean countries, Eastern Europe, most of South America, Honduras, Guatemala, and the Middle East (except Israel and Cyprus)
+- U.S.-born persons not vaccinated as infants whose parents were born in endemic areas
+- Household or sexual contact with hepatitis B surface antigen–positive persons
+- Intravenous drug use
+- Multiple sex partners or history of sexually transmitted infection
+- Men who have sex with men
+- History of incarceration
+- History of hepatitis C virus or HIV infection
+- Hemodialysis
+- Pregnancy
+- Elevated aminotransferase levels of unknown cause
+
+## Phases
+
+- immune tolerant
+	- vertically transmission. 2-3 years. No treatment except > 40 and DNA > 1 million IU/mL
+	- eventually transitions to immune-active
+- immune active
+	- high ALT, intermittent or persistent
+	- HBV DNA > 20,000 IU/mL in HBeAg+ and > 2000 in HBeAg-
+	- treatment warranted
+- immune control (inactive chronic HBV infection)
+	- spontaneous seroconversion occurs at 10%/year
+	- ALT must be normal
+	- loss of HBeAg and development of antibody
+- reactivation
+	- loss of immune control 
+	- usually from immunosuppression
+	- seroconversion from HBsAg- to +
+
+![20210412085201](https://photos.thisispiggy.com/file/wikiFiles/20210412085201.png)
+
+
+
+
+Treatment is advised for patients with acute liver failure, infection in the immune-active phase or reactivation phase, and cirrhosis, and in selected immunosuppressed patients. First-line treatment is entecavir or tenofovir. Lamivudine, adefovir, and telbivudine are less commonly used due to resistance. Pegylated interferon can be used for 48 weeks in patients with high ALT levels, low HBV DNA levels, and without cirrhosis. Candidates for interferon are those who have a desire for finite therapy, are not pregnant, and do not have significant psychiatric disease, cardiac disease, seizure disorder, cytopenia, or autoimmune disease.
+
+Treatment goals for patients in the HBeAg-positive, immune-active phase are HBeAg loss and anti-HBe seroconversion, which should be followed by an additional 12 months of treatment. Goals of treatment in the HBeAg-negative, reactivation phase are HBV DNA suppression and ALT normalization; oral antiviral agents are generally continued indefinitely. Patients with cirrhosis should continue oral antiviral medications indefinitely. HBsAg seroconversion rarely occurs with oral antiviral treatment and, therefore, is not a goal of treatment. Regression of fibrosis and even of cirrhosis can occur with treatment.
+
+Rarely, patients with HBV infection develop membranous nephropathy, membranoproliferative nephropathy, polyarteritis nodosa or cryoglobulinemia, which should prompt treatment with oral antiviral therapy.
+
+The survival rate after liver transplantation for end-stage liver disease from HBV infection is greater than 90% at 1 year. Recurrence of HBV infection in transplant recipients is prevented with HBV immunoglobulin and/or oral antiviral therapy.
+
+The prognosis for untreated individuals with HBV infection worsens with age, particularly with age older than 40 years. Approximately 40% of deaths in HBV-infected persons older than age 40 years are related to hepatocellular carcinoma or decompensated cirrhosis. The following characteristics are associated with an increased risk for hepatocellular carcinoma in patients with HBV infection and are indications for surveillance with ultrasound or cross-sectional imaging every 6 months: (1) cirrhosis; (2) Asian descent plus male sex plus age older than 40 years; (3) Asian descent plus female sex plus age older than 50 years; (4) sub-Saharan African descent plus age older than 20 years; (5) persistent inflammatory activity (defined as an elevated ALT level and HBV DNA levels greater than 10,000 IU/mL for at least a few years); and (6) a family history of hepatocellular carcinoma.

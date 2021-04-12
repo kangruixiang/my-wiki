@@ -67,6 +67,7 @@ Treatment
 	- liver disease: V. vulnificus especially
 	- DM: NF of perineum, Fournier gangrene
 - bacteria: _Streptococcus pyogenes_, _Staphylococcus aureus_, _Streptococcus agalactiae, Aeromonas hydrophila, Vibrio vulnificus,_ and _Clostridium perfringens._
+- LRINEC score for risk indicator
 
 ![](https://d1eajqpqz9s5ua.cloudfront.net/hashed_figures/mk18_b_id_f03.d0351b77d0db0f6776b450d43af1b661.jpg)
 

@@ -51,6 +51,7 @@
 - [[osteoporosis]]
 - [[ankylosing spondylitis]]
 - [[Back Pain]]
+- [[back pain 12 2020 note]]
 
 ## Knee Problems
 
@@ -61,3 +62,8 @@
 - [[pes anserine bursitis]]
 - [[young atheletes anterior knee pain]]
 - [[oligoarthritis]]
+- [[osteoarthritis notes 2 17]]
+
+## Notes
+
+- [[back pain 12 2020 note]]

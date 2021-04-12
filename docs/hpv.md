@@ -4,87 +4,27 @@
 
 # HPV
 
-<!-- Human Papilloma Viruses morphology -->
+- Keywords:: [[Step 3]] [[ID]] [[HIV]]
+---
 
-are a group of **non-enveloped icosahedral circular double-stranded DNA (dsDNA).**
-naked statue, round table, blue color
-![](https://photos.thisispiggy.com/file/wikiFiles/1iMIhY5.jpg)
+<!-- HPV and pregnancy risk, sx, management -->
 
-<!-- HPV acute vs chronic symptoms -->
+Human papillomavirus (HPV) is a common sexually transmitted virus that causes cervical cancer. In immunocompetent women, HPV usually causes a transient infection. Immunosuppressed patients (eg, HIV infection) are unable to clear HPV and are at increased risk for **persistent HPV** infection that can progress to cervical dysplasia and cancer. Therefore, patients newly diagnosed with HIV are recommended to have a Pap test immediately after diagnosis followed by close interval screening. In patients with HIV, invasive cervical cancer is an **AIDS-defining illness**.
 
-Clinically presents \*\*acutely as **warts** or \*\*chronically as carcinomas (cervical, squamous cell, laryngeal)\*\*.
+Most patients diagnosed with cervical dysplasia are asymptomatic. **Invasive cervical cancer** typically presents in patients who have not had routine Pap test screening and can be asymptomatic. However, the most common presenting features of invasive cervical cancer are **irregular vaginal bleeding** and a **friable, exophytic cervical mass**. Other features of cervical cancer include postcoital bleeding; watery, mucoid vaginal discharge; and ulcerative cervical lesions. Suspicious cervical lesions require a **cervical biopsy** to evaluate for cancer. Additional risk factors for cervical cancer include tobacco use, prior sexually transmitted infection, and multiple sexual partners.
 
-## HPV 1-4
+![image-20200721213201250](https://photos.thisispiggy.com/file/wikiFiles/image-20200721213201250.png)
 
-<!-- HPV 1-4 symptoms -->
+A 39-year-old woman, gravida 3 para 2, at 7 weeks gestation comes to the emergency department for vaginal bleeding that began 3 hours ago and has soaked through a pad. Since her arrival, the bleeding has subsided. She reports no abdominal pain or cramping. Her first prenatal visit is in 1 week. The patient has a history of HIV, contracted 3 years ago through unprotected sexual intercourse, but she has declined treatment as she has fel"healthy." She has no previous surgeries. The patient's 2 prior pregnancies ended in uncomplicated term vaginal deliveries; the last delivery was 4 years ago. Her last Pap test, 4 years ago, was normal. She has smoked half a pack of cigarettes a day for 13 years but does not drink alcohol or use illicit drugs. Blood pressure is 130/80 mm Hg and pulse is 82/min. BMI is 24 kg/m2. Abdominal examination shows no tenderness or masses. The external genitalia have no lesions. Speculum examination reveals minimal bright red blood in the vaginal vault. The cervix is closed and there is a 3-cm, firm, white, irregular mass on the anterior cervix that bleeds when touched with a cotton applicator. Laboratory results are as follows:
 
-HPV 1 causes **plantar warts**, while HPV 2 through 4 cause verruca vulgaris (common **skin warts**).
-![](https://photos.thisispiggy.com/file/wikiFiles/41ioopf.jpg)
-kids 1 and 4 fingers playing outside
-![](https://photos.thisispiggy.com/file/wikiFiles/1iMIhY5.jpg)
+![image-20200721213115410](https://photos.thisispiggy.com/file/wikiFiles/image-20200721213115410.png)
 
-## HPV 6 and 11
+A bedside transvaginal ultrasound reveals an intrauterine gestation with normal fetal cardiac activity. Which of the following is the best next step in management of this patient?
 
-<!-- HPV 6 and 11 symptoms -->
+## HPV vaccines
 
-Cause **condyloma acuminata** (genital warts) and **laryngeal papillomas** in children. Laryngeal papillomas can cause airway swelling, hoarseness, and secondary bacterial pneumonia.
-Kids: 1 in the mouth, 1 in the pants
-![](https://photos.thisispiggy.com/file/wikiFiles/JWragpm.jpg)
-![](https://photos.thisispiggy.com/file/wikiFiles/HcclGnr.jpg)
-![](https://photos.thisispiggy.com/file/wikiFiles/IT7isJT.jpg)
+<!-- HPV vaccine indications -->
 
-## HPV 16 and 18
+![image-20200205201741386](https://photos.thisispiggy.com/file/wikiFiles/image-20200205201741386.png)
 
-<!-- HPV 16 and 18 symptoms -->
-
-Are associated with **intraepithelial neoplasia** and **anogenital carcinoma** of the uterine cervix, penis, and anus (HPV-16 and 18 together account for 70% of cervical cancers).
-Note that HPV-16 and HPV-18 are also responsible for squamous cell carcinoma of the head and neck.
-![](https://photos.thisispiggy.com/file/wikiFiles/JWragpm.jpg)
-![](https://photos.thisispiggy.com/file/wikiFiles/d3SAQi7.jpg)
-![](https://photos.thisispiggy.com/file/wikiFiles/xCzTtk5.jpg)
-
-<!-- HPV transmission -->
-
-Transmission occurs by **direct and indirect contact (skin and sexual contact)**. HPV infects **squamous epithelial cells in epidermis or mucous membranes** causing a lysogenic and lytic cycle.
-
-## Lysogenic cycle
-
-<!-- HPV lysogenic cycle pathogenesis -->
-
-In the lysogenic cycle, HPV **infects basal cells** and attempt to replicate. Basal cell environment **disfavors viral replication**. This promotes **benign** basal cell proliferation causing cell growth and vacuolization that clinically manifests as **warts**.
-
-![](https://photos.thisispiggy.com/file/wikiFiles/VUMgOeU.jpg)
-
-As the host cell undergoes the normal differentiation, the virus undergoes different parts of its life cycle. When the virus initially enters host basal cells, it cannot replicate until the cell matures into a keratinocyte. The virus has to wait until mitosis occurs in order to use the host's replication machinery.
-
-## Lytic cycle
-
-<!-- HPV lytic cycle pathogenesis -->
-
-Characterized by release of viral progeny and requires terminal differentiation of stratified epithelium. For this reason, the lytic cycle usually occurs in **upper spinous layer of epithelium**. The keratinized cell environment **favors viral replication, which allows for viral DNA replication and assembly**. Vacuolization of the cytoplasm eventually causes lysis of the host cell, and viral particles are released for further infection.
-![](https://photos.thisispiggy.com/file/wikiFiles/7QTtetR.jpg)
-
-<!-- HPV 16/18 viral proteins -->
-
-HPV 16 and HPV 18 have two viral oncoproteins:
-
-- **E6**, which inhibits the function of **p53**
-- **E7**, which inhibits the function of **Rb**
-
-Loss of p53 and Rb allow for cell cycle progression in the presence of DNA damage, thereby increasing the likelihood of tumorigenesis.
-
-The virus expresses the early proteins--E6, and E7--in the lower spinous layers (earlier in the infection). Normally, as epithelial cells mature, the cell cycle is halted as part of forming a protective barrier; however, terminal differentiation is hindered by E7 and E6. This has most likely evolved to allow the host cell to continue to reproduce viruses.
-
-<!-- P53 function -->
-
-If there is significant DNA damage, **p53 stimulates production of p21**.  p21 binds and inhibits all cyclin-CDK complexes causing **arrest of cell cycle** until DNA damage is repaired. Mutations in p53 are associated with most cancers.
-
-<!-- RB function -->
-
-The **hypophosphorylated Rb inhibits E2F activity** and G1-to-S progression.  Loss of function Rb mutations are associated with **Retinoblastoma and Osteosarcoma**.The activated Cyclin D-CDK4/6 complex **phosphorylates Rb** tumor suppressor gene.  **Phosphorylated Rb releases E2F** transcription factor. E2F activates its target genes, including Cyclin D and other Cyclins (E and A), which are needed for progression of the cell cycle.
-
-## Treatment
-
-<!-- HPV Treatment -->
-
-![](https://photos.thisispiggy.com/file/wikiFiles/VbxCQlP.jpg)
+Human papillomavirus (HPV) is responsible for most cases of genital warts as well as cervical, vulvar, vaginal, penile, and anal cancers. HPV can also cause oropharyngeal cancer, which is more common in men than women. Current available **HPV vaccines** target 9 types that cause either **genital warts** (eg, **types 6 and 11**) or **cancer** (eg, **types 16 and 18**). All males and females should be offered the HPV vaccine to reduce HPV transmission and prevent disease (eg, warts, cervical cancer, oropharyngeal cancer).

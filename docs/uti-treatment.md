@@ -3,6 +3,7 @@
 ---
 
 # UTI treatment
+
 - related: [[UTI]], [[acute pyelonephritis]]
 
 <!-- acute cystitis, complicated cystitis, pyelo treatment. Rx if pregnant -->
@@ -15,7 +16,7 @@
 
 _Escherichia coli_ is the most common cause of acute cystitis in both pregnant and nonpregnant patients, but some antibiotics that are used in treatment of cystitis for nonpregnant patients are avoided during pregnancy due to their association with fetal anomalies.  In pregnancy, the first-line antibiotics for acute cystitis include **cephalexin**, **fosfomycin**, and **amoxicillin-clavulanate**, all of which provide broad-spectrum coverage and are not teratogenic.  Nitrofurantoin can also be used in the second and early third trimesters, but is avoided in the first trimester due to a risk of orofacial clefts and in the late third trimester due to an association with neonatal hemolytic anemia.
 
-Pyelonephritis: 
+Pyelonephritis:
 
 Every patient requires a urine culture with susceptibility testing obtained before initiation of empiric therapy. Fluoroquinolones (ciprofloxacin for 7 days or levofloxacin for 5 days for uncomplicated infections, 10-14 days in complicated infections) are the only oral agents recommended for empiric outpatient treatment, but an initial dose of a long-acting parenteral antibiotic (such as ceftriaxone, 1 g, or a once-daily aminoglycoside) should replace fluoroquinolones when local resistance rates exceed 10%. When a fluoroquinolone is contraindicated, trimethoprim-sulfamethoxazole twice daily for 14 days may be used after the pathogen is proven to be susceptible; trimethoprim-sulfamethoxazole should be avoided as initial empiric therapy because of the high level of _E. coli_ resistance to this antibiotic in the community.
 
@@ -23,8 +24,7 @@ Depending on the risk of antimicrobial resistance and on recent antibiotic use, 
 
 Therapy can be completed with active oral agents when an adequate clinical response has been observed. Patients with bacteremia do not require longer courses of treatment and may be converted to appropriate oral therapy when clinically stable.
 
-Imaging studies are only necessary in patients with prolonged fever (&gt;72 hours) or persistent bacteremia, in which complications such as obstruction or perinephric and intrarenal abscesses must be excluded. Routine follow-up urine cultures are only indicated in pregnant women.
-
+Imaging studies are only necessary in patients with prolonged fever (>72 hours) or persistent bacteremia, in which complications such as obstruction or perinephric and intrarenal abscesses must be excluded. Routine follow-up urine cultures are only indicated in pregnant women.
 
 This patient should complete her prescribed 7-day course of oral ciprofloxacin. She has acute uncomplicated pyelonephritis, which can usually be managed with outpatient oral antimicrobial therapy. Ciprofloxacin for 1 week or levofloxacin for 5 days are the recommended first-line treatment regimens. An initial dose of a long-acting parenteral antibiotic (such as ceftriaxone or aminoglycoside) is suggested when local fluoroquinolone resistance (>10%) is a concern. When a fluoroquinolone antibiotic cannot be used or the bacterial isolate proves resistant, an alternative second-line oral antibiotic should be substituted. Available options include trimethoprim-sulfamethoxazole or the less well-studied oral β-lactam agents.
 

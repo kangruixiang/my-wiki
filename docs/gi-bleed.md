@@ -4,10 +4,10 @@
 
 # GI Bleed
 
-- Keywords:: [[GI]] [[Step 3]]
+- Keywords:: [[GI]] [[Step 3]], [[lower GI bleed]], [[upper GI bleed]]
 ---
 
--
+
 - ![image-20200715073927982](https://photos.thisispiggy.com/file/wikiFiles/image-20200715073927982.png)
 - **Hematochezia** (bright red blood per rectum or maroon-colored stools) is nearly always due to **lower gastrointestinal** bleeding (LGIB).
 - Hematemesis and melena are more common in upper GI bleeding (UGIB), although UGIB can sometimes present with hematochezia if bleeding is particularly brisk.

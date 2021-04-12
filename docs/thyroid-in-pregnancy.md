@@ -4,6 +4,10 @@
 
 # Thyroid in pregnancy
 
+- related: [[OBGYN]], [[Endocrine]]
+
+## Pregnancy and thyroid medications
+
 <!-- pregnancy and thyroid medications -->
 
 However, methimazole is a potential teratogen and should not be used during the first trimester. These teratogenic effects consist of scalp defects, tracheoesophageal fistula, and choanal atresia. During the first trimester, pregnant patients should be switched to propylthiouracil, which carries less risk of birth defects. For the second and third trimesters, patients are often switched back to methimazole because propylthiouracil carries a risk of liver failure. Beta-blockers can be given if a pregnant patient has symptoms of hyperthyroidism despite the use of thionamide medications, although an attempt should be made to avoid beta-blockers since they can potentially result in harmful effects on the fetus.
@@ -25,3 +29,11 @@ Management of hyperthyroidism during pregnancy can be challenging as physiologic
 The interpretation of thyroid hormone and TSH levels should be based on pregnancy-specific reference ranges (normal total T3 and T4 can be approximated by **1.5 x nonpregnant reference ranges**).
 
 Overtreatment of hyperthyroidism during pregnancy can lead to fetal hypothyroidism and goiter, so treatment should be titrated to maintain a **mild hyperthyroid state**.  This patient's test results are appropriate for hyperthyroidism in pregnancy, and her current therapy should be continued without any dose adjustments.
+
+## Hypothyroidism and pregnancy
+
+- in euthyroid women: T4 pool increases 40-50% by increased TSH and HCG
+- in pregnant women with hypothyroidism, cannot increase own production
+- T4 requirements begin increase week 4-6
+- empirically increase dosing by 30% when pregnancy confirmed
+- measure TSH every 4 weeks first half of pregnancy and around 30 weeks gestation

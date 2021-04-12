@@ -9,9 +9,11 @@
 
 ## Transfusion reaction
 
-<!-- transfusion reaction timeline, special RBC treatment when -->
-
 ![image-20200215205428431](https://photos.thisispiggy.com/file/wikiFiles/image-20200215205428431.png)
+
+![image-20200601203956054](https://photos.thisispiggy.com/file/wikiFiles/image-20200601203956054.png)
+
+![image-20200601204012399](https://photos.thisispiggy.com/file/wikiFiles/image-20200601204012399.png)
 
 ![image-20200215205449578](https://photos.thisispiggy.com/file/wikiFiles/image-20200215205449578.png)
 
@@ -20,12 +22,6 @@ Leukoreduction involves reducing the number of transfused leukocytes  through fi
 Residual plasma in red cell concentrates contains proteins, including  immunoglobulin A (IgA). IgA-deficient patients develop antibodies  against IgA. These antibodies can react with IgA-containing donor  products and induce an anaphylactic reaction (angioedema, hypotension,  and respiratory distress) that can progress rapidly to loss of  consciousness, shock, and respiratory failure. To reduce this risk, red cells should be washed to remove as much of the plasma as possible for  patients with IgA deficiency or prior allergic transfusion reaction.
 
 ## Transfusion reaction
-
-<!-- transfusion reactions onset, cause, sx -->
-
-![image-20200601203956054](https://photos.thisispiggy.com/file/wikiFiles/image-20200601203956054.png)
-
-![image-20200601204012399](https://photos.thisispiggy.com/file/wikiFiles/image-20200601204012399.png)
 
 This patient is likely having an acute hemolytic  transfusion reaction (AHTR), which typically develops within an hour  after the transfusion is started. AHTR is a medical emergency usually  caused by ABO incompatibility (possibly due to clerical error) or  presence of other antibodies.  Patients who require chronic red cell  transfusions (eg, African American patients with sickle cell anemia) may form multiple antibodies to common Rh, Kell, or other blood group  antigens.
 

@@ -6,6 +6,8 @@
 
 - [[euglycemic ketoacidosis]]
 - [[pediatric DKA]]
+- [[DKA HHS diagnosis]]
+- [[DKA ddx]]
 
 <!-- DKA management -->
 

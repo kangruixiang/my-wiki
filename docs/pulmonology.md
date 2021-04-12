@@ -31,3 +31,8 @@
 - [[ILD]]
 - [[UIP]]
 - [[silicosis]]
+
+## Airway
+
+- [[airway management]]
+- [[PF ratio]]

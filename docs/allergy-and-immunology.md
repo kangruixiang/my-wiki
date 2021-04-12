@@ -8,6 +8,7 @@
 ---
 
 ## Immune deficiencies
+
 - [[IgA deficiency]]
 
 ## Soft tissue problems
@@ -36,6 +37,11 @@
 ## Vasculitis
 
 - [[temporal arteritis]]
+
+## RA
+
+- [[RA note 2 17]]
+- [[seronegative spondyloarthropathy]]
 
 ## Antibodies
 

@@ -3,8 +3,8 @@
 ---
 
 # neisseria gonorrhea
-- related: [[OBGYN]]
 
+- related: [[OBGYN]]
 
 ## Disseminated gonococcal
 
@@ -22,8 +22,6 @@ Patients with possible DGI should be evaluated with blood cultures, **nucleic ac
 
 A 25-year-old woman comes to the office due to joint pain. The patient was feeling well until 4 days ago when she acutely developed a fever and generalized malaise. At that time, she also noticed pain in her right wrist, right ankle, and the small joints of the right hand.  Since the onset of her illness, the fever has resolved, but the joint  pain is getting worse. The patient has had no chest pain, cough,  abdominal pain, dysuria, hematuria, or rash. Her last menstrual period  was a week ago, and she uses a copper intrauterine device for contraception. Medical history is otherwise unremarkable. Her  mother has rheumatoid arthritis and her paternal uncle has Crohn  disease. The patient does not use tobacco, alcohol, or illicit drugs.  Temperature is 37.2 C (99 F), blood pressure is 112/71 mm Hg, and pulse  is 94/min. Examination shows prominent tenderness to palpation at the right wrist and along the right extensor hallucis longus tendon with passive extension. A 5-mm, hemorrhagic pustule is noted on the sole of her right foot. Which of the following is the best diagnostic test for this patient's condition?
 
-
-
 <!--  neisseria gonorrhea treatment -->
 
 Those with uncomplicated urogenital infections should be treated with **dual therapy** as follows:
@@ -36,6 +34,4 @@ Those with uncomplicated urogenital infections should be treated with **dual the
 
 These medications are typically administered simultaneously in the clinic to ensure treatment adherence.
 
-
 "The most appropriate treatment for this patient is a single dose of intramuscular ceftriaxone (250 mg) plus oral doxycycline (100 mg twice daily) for 14 days."
-

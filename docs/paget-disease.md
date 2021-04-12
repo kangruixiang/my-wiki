@@ -4,7 +4,42 @@
 
 # Paget disease
 
-<!-- Paget's sx, dx, treatment -->
+- related: [[Endocrine]]
+
+## Symptoms and Diagnosis
+
+<!-- paget disease symptoms and diagnosis -->
+
+Symptoms
+
+- most commonly present as **asymptomatic elderly pt with high alk phos or incidental finding on imaging**
+- Sx: **bone pain, deformity, fracture**
+- Atypical: spinal cord, cranial nerve compression from expansion of bone
+
+Diagnosis
+
+- **thickening** of cortical bone
+- **coarsened** trabecular markings
+- distortion and expansion of involved bone
+- Biopsy is rarely needed
+- Alk phos elevated
+  Alkaline phosphatase may be elevated in other conditions, including vitamin D deficiency, other metabolic bone disease (such as osteomalacia), or recent fracture. Therefore, all patients with suspected Paget disease of bone require assessment of **serum calcium, 25-hydroxyvitamin D, and a whole-body radionuclide bone scan**.
+
+![20210208161023](https://photos.thisispiggy.com/file/wikiFiles/20210208161023.png)
+
+## Management
+
+<!--  paget disease management -->
+
+- indication for treatment: bone pain, risk of fracture, deformity, neurologic problem, elevated alk phos
+- check alk phos first to establish baseline
+- Bisphophonate primary treatment
+	- one time IV zoledronic acid 5mg
+- Monitor annual alk phos levels
+
+## Uworld
+
+<!-- ignore -->
 
 ![img](https://www.uworld.com/media/L10869.jpg)
 
