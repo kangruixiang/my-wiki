@@ -18,7 +18,9 @@
 - [[code status]]
 - [[airway management]]
 - [[goals of care]]
-- [[capacity and competency]]
+- \[\[capacity and competency]
+- [[medicare medicaid]]
+- [[blood draw]]
 
 ## Poisoning
 

@@ -67,7 +67,7 @@
 
 ## Hospice
 
-- Hospice
+- [[Hospice]]
 	- Medicare A covers
 	- either home or inpatient
 	- inpatient: IV pain meds, comfort care, days to live

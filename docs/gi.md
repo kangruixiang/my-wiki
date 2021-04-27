@@ -28,11 +28,13 @@
 - [[AVM]]
 - [[Celiac Disease]]
 - [[acute diarrhea]]
+- [[chronic diarrhea]]
 - [[opioid induced constipation]]
 - [[constipation]]
 - [[laxatives]]
 - [[lower GI bleed]]
 - [[IBS]]
+- [[microscopic colitis]]
 
 ## ID
 
@@ -46,6 +48,7 @@
 - [[PSC]]
 - [[PBC]]
 - [[acute pancreatitis]]
+- [[autoimmune pancreatitis]]
 - [[acute cholangitis]]
 - [[acalculous cholecystitis]]
 - [[pylephlebitis]]
@@ -54,3 +57,4 @@
 - [[acid and base in liver disease]]
 - [[acute liver failure]]
 - [[hepatopulmonary syndrome]]
+- [[gallbladder polyp]]

@@ -4,6 +4,8 @@
 
 # Esophagitis
 
+- related: [[GI]], [[eosinophilic esophagitis]]
+
 <!-- medication induced esophagitis causes --> 
 
 ![image-20200718074442737](https://photos.thisispiggy.com/file/wikiFiles/image-20200718074442737.png)

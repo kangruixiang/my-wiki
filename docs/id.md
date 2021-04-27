@@ -58,6 +58,7 @@
 - [[shigella]]
 - [[Pasteurella]]
 - [[MRSA risks]]
+- [[MRSA]]
 - [[MSSA vanc vs cefazolin]]
 - [[yersinia]]
 - [[salmonella]]

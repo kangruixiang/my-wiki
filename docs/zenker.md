@@ -11,7 +11,9 @@
 	- halitosis
 	- aspiration
 	- gurgling in chest
+
 - diagnosis
-	- initial test: barium esophagram to identify diverticulum 
+	- initial test: barium esophagram to identify diverticulum
+
 - treatment: reserved for symptomatic patients
 	- endoscopic diverticulectomy

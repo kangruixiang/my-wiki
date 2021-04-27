@@ -20,13 +20,13 @@ Management of IBS includes lifestyle and dietary modifications, and reassurance 
 
 The most common dietary intervention is an increase in fiber, either through diet or use of fiber supplements. Water-soluble fiber supplements such as psyllium are more effective than insoluble dietary fiber such as bran. Dietary restrictions can include avoidance of trigger foods, gluten (in the absence of celiac disease), dairy products, and FODMAPs (see **[Table 19](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t19)**). Randomized trials have shown that a low-FODMAP diet alleviates symptoms in patients with IBS. When these initial measures fail to relieve symptoms, medications, typically directed at the primary symptoms of IBS such constipation, diarrhea, or abdominal pain, are employed. The evidence supporting the use of the various agents is variable, with few rigorous studies showing long-term effectiveness.
 
-![[Pasted image 20210412144813.png]]
+![20210412144813](https://photos.thisispiggy.com/file/wikiFiles/20210412144813.png)
 
 #### Therapy for Irritable Bowel Syndrome with Predominant Constipation
 
 #### Related Question
 
--   Question 92
+- Question 92
 
 Several peripherally acting medications have demonstrated efficacy and safety in the treatment of IBS-C (see **[Table 22](https://mksap18.acponline.org/app/topics/gi/tables/mk18_a_gi_t22)**). The American Gastroenterological Association (AGA) has given a strong recommendation based on high-quality evidence for the use of linaclotide, followed by a conditional recommendation for the use of lubiprostone based on moderate-quality evidence and a conditional recommendation for the use of polyethylene glycol based on low-quality evidence in the treatment of IBS-C. Probiotics have uncertain benefit and should be used in the context of a clinical trial.
 
@@ -34,7 +34,7 @@ Several peripherally acting medications have demonstrated efficacy and safety in
 
 #### Related Question
 
--   Question 6
+- Question 6
 
 Prescription medications with FDA approval for the treatment of IBS–D include rifaximin, eluxadoline, and alosetron. A 14-day course of rifaximin has shown superiority to placebo in relieving the global symptoms, bloating, abdominal pain, and loose stools associated with IBS-D for up to 10 weeks after treatment. A retreatment study of patients with recurring IBS-D symptoms after an initial course of rifaximin showed that a second 14-day treatment of rifaximin was superior to placebo in relieving abdominal pain and improving stool frequency for 4 weeks after treatment.
 
@@ -46,16 +46,16 @@ Other medications with clinical evidence for the treatment of IBS-D include lope
 
 ## Key Points
 
--   Irritable bowel syndrome is diagnosed based on clinical criteria and is no longer a diagnosis of exclusion.
--   Many cases of irritable bowel syndrome can be effectively managed with reassurance, lifestyle modifications, and dietary modifications.
--   Pharmacotherapy should target predominant symptoms and be used if conservative treatment is not effective.
+- Irritable bowel syndrome is diagnosed based on clinical criteria and is no longer a diagnosis of exclusion.
+- Many cases of irritable bowel syndrome can be effectively managed with reassurance, lifestyle modifications, and dietary modifications.
+- Pharmacotherapy should target predominant symptoms and be used if conservative treatment is not effective.
 
 ## Management of Patients with Indeterminate Abdominal Pain
 
 #### Related Questions
 
--   Question 23
--   Question 82
+- Question 23
+- Question 82
 
 When abdominal pain is the primary symptom and is unrelated to food intake and defecation, centrally mediated abdominal pain syndrome (CAPS) should be considered. Abdominal pain is described as constant, nearly constant, or frequently recurring. The pain is not localized and may include extraintestinal symptoms such as musculoskeletal pain. It can be associated with impairment in activities of daily living and psychosocial issues. CAPS is a result of central sensitization with disinhibition of pain signals. Limited evaluation is needed in the setting of chronic pain meeting the diagnostic criteria for CAPS. Initial evaluation should include a detailed medical and psychosocial history, physical examination, and limited laboratory studies to exclude gastrointestinal bleeding and inflammation.
 
@@ -65,5 +65,5 @@ Narcotic bowel syndrome, also known as opiate-induced gastrointestinal hyperalge
 
 ## Key Points
 
--   The evaluation for centrally mediated pain syndrome in the setting of chronic abdominal pain requires a detailed medical and psychosocial history and physical examination with limited laboratory testing.
--   Narcotic bowel syndrome, also known as opiate-induced gastrointestinal hyperalgesia, is characterized by the paradoxical increase in abdominal pain with increasing doses of narcotics.
+- The evaluation for centrally mediated pain syndrome in the setting of chronic abdominal pain requires a detailed medical and psychosocial history and physical examination with limited laboratory testing.
+- Narcotic bowel syndrome, also known as opiate-induced gastrointestinal hyperalgesia, is characterized by the paradoxical increase in abdominal pain with increasing doses of narcotics.

@@ -14,6 +14,7 @@
 - hematochezia: bright bloody stool
 
 ### Causes
+
 - peptic ulcer disease: most commin, mostly by NSAID or H pylori
 	- esophagitis: rarely causes significant UGIB
 - gastroesophageal varices
@@ -53,11 +54,12 @@
 	- pulse rate
 	- It predicts the need for clinical intervention, rebleeding, and mortality. Patients at low risk with a modified Glasgow-Blatchford score of 1 or less may be considered for early discharge or outpatient treatment.
 - Endoscopy should be performed within 24 hours of resuscitation
-	- in those with rapid bleeding or suspected variceal hemorrhage, it should be done more emergently. 
+	- in those with rapid bleeding or suspected variceal hemorrhage, it should be done more emergently.
 - The possibility of aortoenteric fistula should always be considered in patients who have had previous aortic graft surgery and who present with gastrointestinal bleeding because aortoenteric fistula is life-threatening, with a mortality rate of 50% even with surgical intervention. When there is a high degree of suspicion for an aortoenteric fistula, CT with intravenous contrast should be performed before endoscopy or other types of gastrointestinal evaluation.
 - patients with no NSAID or H pylori infection and still has idiopathic peptic ulcer disease should continue on qd PPI indefinitely because of high risk for recurring
 
 ## Endoscopy
+
 - High risk lesions for recurrent bleeding:
 	- actively bleeding ulcer
 	- ulcer with nonbleeding visible vessels
@@ -66,8 +68,9 @@
 	- discharge on BID PO PPI for 2 weeks
 - low risk rebleed:
 	- clean based ulcers
-	- ulcers with pigmented spots
-	- mallory weiss tears
-	- can feed in 24 hours, start qd PPI PO, discharge home
 
- 
+	- ulcers with pigmented spots
+
+	- mallory weiss tears
+
+	- can feed in 24 hours, start qd PPI PO, discharge home

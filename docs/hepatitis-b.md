@@ -66,14 +66,11 @@
 	- ALT must be normal
 	- loss of HBeAg and development of antibody
 - reactivation
-	- loss of immune control 
+	- loss of immune control
 	- usually from immunosuppression
 	- seroconversion from HBsAg- to +
 
 ![20210412085201](https://photos.thisispiggy.com/file/wikiFiles/20210412085201.png)
-
-
-
 
 Treatment is advised for patients with acute liver failure, infection in the immune-active phase or reactivation phase, and cirrhosis, and in selected immunosuppressed patients. First-line treatment is entecavir or tenofovir. Lamivudine, adefovir, and telbivudine are less commonly used due to resistance. Pegylated interferon can be used for 48 weeks in patients with high ALT levels, low HBV DNA levels, and without cirrhosis. Candidates for interferon are those who have a desire for finite therapy, are not pregnant, and do not have significant psychiatric disease, cardiac disease, seizure disorder, cytopenia, or autoimmune disease.
 

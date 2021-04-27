@@ -4,7 +4,7 @@
 
 # MRSA risks
 
-- related: [[ID]]
+- related: [[ID]], [[MRSA]]
 
 <!-- MRSA coverage when -->
 

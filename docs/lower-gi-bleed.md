@@ -8,7 +8,7 @@
 
 ![image-20200715073927982](https://photos.thisispiggy.com/file/wikiFiles/image-20200715073927982.png)
 
-Resuscitation goals for patients with LGIB should be normalization of blood pressure and heart rate, as well as the transfusion of packed red blood cells if needed to maintain the hemoglobin level **above 7 g/dL** (70 g/L), with a threshold of 9 g/dL (90 g/L) in patients with massive bleeding, or when treatment may be delayed. Platelet transfusion to maintain counts above 50,000 cells/µL (50 × 109/L) is recommended in patients with active bleeding. 
+Resuscitation goals for patients with LGIB should be normalization of blood pressure and heart rate, as well as the transfusion of packed red blood cells if needed to maintain the hemoglobin level **above 7 g/dL** (70 g/L), with a threshold of 9 g/dL (90 g/L) in patients with massive bleeding, or when treatment may be delayed. Platelet transfusion to maintain counts above 50,000 cells/µL (50 × 109/L) is recommended in patients with active bleeding.
 
 CT angiography (CTA) is the initial diagnostic test in patients who are hemodynamically unstable or have rapid ongoing bleeding. Upper endoscopy may be a reasonable first choice in patients at risk for a rapidly bleeding upper gastrointestinal source as a cause of hematochezia. If CTA does not show a source of bleeding in the unstable or rapidly bleeding patient, upper endoscopy should be performed immediately.
 

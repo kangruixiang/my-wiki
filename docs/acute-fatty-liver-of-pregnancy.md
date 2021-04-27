@@ -1,0 +1,15 @@
+---
+- date: 2021-04-19
+---
+
+# acute fatty liver of pregnancy
+
+- related: [[GI]]
+
+Immediate delivery of the fetus is the most appropriate next step in management. This patient has findings of acute fatty liver of pregnancy, which is a rare but serious condition occurring most commonly in the third trimester. Women with this condition typically present with a 1- to 2-week history of nausea and vomiting, right-upper-quadrant or epigastric pain, headache, jaundice, anorexia, and/or polyuria and polydipsia (due to associated transient diabetes insipidus). Maternal and neonatal mortality rates are high in this setting. This patient's presentation with coagulopathy, hypoglycemia, and somnolence consistent with hepatic encephalopathy are indications of acute liver failure, which can result from acute fatty liver of pregnancy. Immediate delivery of the fetus is indicated to prevent fetal mortality and to reverse the mother's liver failure and improve her condition. Prompt delivery typically results in improvement of the mother's medical condition within 48 to 72 hours. Acute fatty liver of pregnancy can reoccur in subsequent pregnancies. It is also associated with long-chain 3-hydroxyacyl CoA dehydrogenase deficiency, and affected women and their children should be screened for this deficiency. HELLP (Hemolysis, Elevated Liver enzymes, and Low Platelets) syndrome can also occur in the third trimester of pregnancy. It has similarly life-threatening consequences and also requires emergent delivery of the fetus to resolve the condition. HELLP syndrome can present similarly to acute fatty liver of pregnancy in that manifestations of liver failure are present.
+
+This patient's ultrasound showed no dilation of bile ducts, and no stones were seen in the common bile duct; therefore, endoscopic retrograde cholangiopancreatography is not indicated.
+
+This patient's drowsiness is due to impending liver failure. Lactulose, which is used for treatment of hepatic encephalopathy in patients with chronic liver disease, is not indicated for patients with acute liver failure because it may exacerbate symptoms of ileus, and there is no evidence of benefit in the acute setting. Any symptoms referable to hepatic encephalopathy will resolve with delivery of the fetus, which resolves acute fatty liver of pregnancy.
+
+Intrahepatic cholestasis of pregnancy occurs during the second or third trimester and resolves after delivery. The most common laboratory findings are elevated bilirubin and alkaline phosphatase levels. The condition is believed to result from sex hormone–induced inhibition of bile salt export from hepatocytes. It is treated with ursodeoxycholic acid, which can result in alleviation of symptoms. Although the maternal effects of intrahepatic cholestasis of pregnancy are mild, it can cause fetal distress and premature labor. Because this patient's clinical profile is not compatible with intrahepatic cholestasis of pregnancy, ursodeoxycholic acid therapy is not indicated.
