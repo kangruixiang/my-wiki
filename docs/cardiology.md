@@ -11,6 +11,7 @@
 
 ## Pathology
 
+- [[EKG basics]]
 - [[Valvular Diseases]]
 - [[Statin initiation]]
 - [[heart failure]]
