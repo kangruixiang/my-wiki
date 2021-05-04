@@ -92,39 +92,42 @@ Acute severe mitral regurgitation may occur as a result of papillary muscle rupt
 
 #### Risk Stratification
 
-Many treatment options are available for patients with NSTE-ACS, and risk stratification tools can be used to aid in diagnostic and therapeutic decision making. The two most commonly used risk scores are the TIMI and GRACE risk models. The simpler of the two models, the TIMI risk score, predicts 14-day death, recurrent MI, and urgent revascularization rates (**[Table 11](https://mksap18.acponline.org/app/topics/cv/tables/mk18_a_cv_t11)**). The GRACE risk score (available at [www.gracescore.org](http://www.gracescore.org)) is more complex, requiring a nomogram to calculate. It incorporates physical examination findings (heart rate, blood pressure, Killip class), clinical features (age, cardiac arrest at admission), electrocardiographic findings (ST-segment deviation), and biomarker variables (creatinine levels, elevated cardiac enzymes) to predict in-house and postdischarge death and MI risk. These scoring systems are useful in determining which patients may benefit most from more aggressive strategies, such as anticoagulation or an early invasive approach (**[Figure 9](https://mksap18.acponline.org/app/topics/cv/figures/mk18_a_cv_f09)**). An elevated troponin level is itself a powerful predictor of outcomes and identifies patients who will benefit from aggressive medical and invasive strategies (coronary angiography).
+- TIMI and GRACE risk m odels
+- TIMI: predicts 14 day death, recurrent MI, urgent revascularization rates
 
 #### Medical Therapy
 
-Medical therapies for patients with NSTE-ACS are similar to those for other ACS presentations; however, some unique features in this patient population are highly relevant to the treatment of this condition. Notably, thrombolytic therapy is not beneficial in patients with NSTE-ACS and is not recommended. Medical therapies for the treatment of NSTE-ACS are summarized in **[Table 10](https://mksap18.acponline.org/app/topics/cv/tables/mk18_a_cv_t10)**.
-
 ##### Antiplatelet Medications
 
-#### Related Question
-
-- Question 90
-
-Aspirin (162-325 mg) should be administered at presentation to all patients with definite or likely NSTE-ACS, followed by a daily dose of 81 to 162 mg. Early clopidogrel loading has been recommended in patients with NSTEMI; however, the optimal timing for loading of other oral antiplatelet agents is unclear. Prasugrel loading before coronary angiography is not beneficial. Clopidogrel or ticagrelor therapy is recommended for 1 year after NSTE-ACS presentation, regardless of the treatment strategy. Prasugrel is indicated only in patients treated with PCI. Evidence supports continuing DAPT beyond 1 year in patients at high risk for recurrent vascular events (such as those with depressed left ventricular function, saphenous vein graft stenting, or diabetes) in whom the benefit exceeds the bleeding risk.
-
-The use of intravenous glycoprotein IIb/IIIa inhibitors (eptifibatide, tirofiban) has decreased over the past decade. Although these drugs had been shown to improve outcomes in patients with NSTE-ACS (particularly higher-risk and troponin-positive patients), subsequent study demonstrated no benefit of upstream glycoprotein IIb/IIIa blockade and an increased risk for bleeding. These agents are generally reserved for use during PCI; however, given the advent of quicker-acting and more potent oral antiplatelet agents, administration of glycoprotein IIb/IIIa inhibitors in the setting of PCI has also significantly declined.
+- ASA: full dose at presentation, followed by daily dose
+- Clopidogrel: recommended early loading but unsure timing for loading
+	- continue one year after NSTE-ACS
+- Prasugrel: only in pts with PCI
+- Continue DAPT > 1 year for pts with depressed LV, saphenous vein graft stent, DM
+- glycoprotein 2b/3a (tirofiban, eptifibatide): used less now. High risk for bleed. Reserved for during PCI
 
 ##### Anticoagulant Medications
 
-Patients with definite NSTE-ACS should undergo anticoagulation. Intravenous unfractionated heparin and subcutaneous enoxaparin are most commonly used. Intravenous heparin is preferred in patients with kidney dysfunction because enoxaparin and similar agents are partially cleared by the kidneys. For patients proceeding to the catheterization laboratory, anticoagulant therapy should be provided until revascularization with PCI or CABG. In medically treated patients, anticoagulation is recommended for at least 48 hours and is generally continued until discharge.
+- IV heparin or lovenox
+- Continue until revascularization
+- if no PCI: continue at least 48 hours and generally until discharge
 
 ##### Antianginal Medications
 
-β-Blockers should be administered within 24 hours of NSTE-ACS because these agents reduce ventricular arrhythmias and long-term mortality. β-Blockers are not appropriate for patients with evidence of heart failure or shock at presentation. Likewise, these agents should not be given to patients with bradycardia, heart block, or a PR interval greater than 240 ms on ECG.
-
-Calcium channel blockers are recommended for patients with NSTE-ACS intolerant of β-blocker therapy or in patients with angina symptoms despite therapy with nitrates and β-blockers. The nondihydropyridine calcium channel blockers reduce heart rate, blood pressure, and cardiac contractility, thereby reducing myocardial oxygen demand. However, because of these hemodynamic effects, use of these agents is also contraindicated in the setting of shock, pulmonary edema, or significant conduction disease. Importantly, short-acting dihydropyridine calcium channel blockers are contraindicated, owing to their ability to acutely lower the blood pressure and raise the heart rate.
-
-Nitrates are primarily used to manage angina symptoms in patients with NSTE-ACS. Sublingual nitrates should be administered at presentation to relieve chest pain. For patients with persistent chest pain despite β-blockade, intravenous nitroglycerin can alleviate symptoms, particularly in those with hypertension. Patients receiving nitroglycerin infusions for a prolonged time will often require increased doses due to the development of nitrate tolerance. Nitrates should be avoided in patients who have had recent exposure (within 24-48 hours) to phosphodiesterase type 5 inhibitors such as sildenafil.
-
-Patients with chest pain refractory to antianginal medications should be evaluated for noncardiac causes of chest pain and biomarker elevation, as well as for the possibility of severe underlying CAD or electrocardiographically silent coronary thrombosis.
+- beta blocker: within 24 hours of presentation
+	- reduce ventricular arrhythmias, long term mortality
+	- do not give if evidence of heart failure, shock, bradycardia, heart block, PR > 240
+- CCM: for pts with NSTE-ACS intolerant of BB or despite nitrates and BB
+	- do not give if in shock, has pulmonary edema, or conduction disease
+	- short acting dihydropyridine contraindicated because can lower BP and increase HR
+- nitrates: for sx
+	- sublingual on presentation
+	- IV nitro
 
 ##### Lipid-Lowering Medications
 
-Statin therapy reduces mortality and adverse clinical event rates after ACS. High-intensity statin therapy is recommended because it improves outcomes compared with lower-intensity treatment. Initiating statins in the inpatient setting is associated with greater medication adherence. Furthermore, statin preloading before PCI has been associated with lower rates of periprocedural MI.
+- high intensity statin
+- load prior to PCI associated with lower periprocedural MI
 
 #### Invasive Versus Ischemia-Guided Treatment
 
@@ -133,6 +136,8 @@ Immediate invasive treatment (within 2 hours) is recommended for patients with N
 An invasive strategy improves the composite clinical endpoint of death, recurrent MI, and repeat hospitalization compared with an ischemia-guided approach in high-risk and troponin-positive patients with NSTE-ACS. An invasive strategy is the favored approach, with the exception of patients with extensive noncardiac comorbid conditions (such as cancer), in whom the clinical benefits of revascularization may be lower, and patients with acute chest pain unlikely to be related to CAD.
 
 With an ischemia-guided treatment strategy, patients undergo noninvasive stress testing before hospital discharge; cardiac catheterization is reserved for patients with active or intermittent ischemia, including those with angina despite medical therapy or evidence of ischemia on stress testing, and patients at very high clinical risk based on risk score. The ischemia-guided approach is appropriate for low-risk patients (TIMI score <2 or GRACE score <109).
+
+![20210503152138](https://photos.thisispiggy.com/file/wikiFiles/20210503152138.png)
 
 ### Acute Coronary Syndromes Not Associated with Obstructive Coronary Disease
 

@@ -9,19 +9,28 @@
 
 ## Anatomy
 
-## Pathology
+## Physiology
 
 - [[EKG basics]]
-- [[Valvular Diseases]]
+- [[SvO2]]
+
+## Pharmacology
+
 - [[Statin initiation]]
+
+## Pathology
+
+- [[Valvular Diseases]]
 - [[heart failure]]
 - [[Cardiac Ischemia]]
 - [[Arrythmia]]
 - [[AAA]]
 - [[PAD]]
-- [[Cardiac Risk Calculation]]
 - [[Hypertension]]
 - [[cardiogenic syncope]]
 - [[DVT and PE]]
 - [[left axial myxoma]]
-- [[SvO2]]
+
+## Others
+
+- [[Cardiac Risk Calculation]]
