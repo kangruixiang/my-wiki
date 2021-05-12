@@ -92,7 +92,7 @@ Acute severe mitral regurgitation may occur as a result of papillary muscle rupt
 
 #### Risk Stratification
 
-- TIMI and GRACE risk m odels
+- TIMI and GRACE risk models
 - TIMI: predicts 14 day death, recurrent MI, urgent revascularization rates
 
 #### Medical Therapy
