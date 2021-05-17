@@ -27,10 +27,11 @@
 - [[AAA]]
 - [[PAD]]
 - [[Hypertension]]
-- [[cardiogenic syncope]]
+- [[syncope]]
 - [[DVT and PE]]
 - [[left axial myxoma]]
 
 ## Others
 
 - [[Cardiac Risk Calculation]]
+- [[pacemaker]]
