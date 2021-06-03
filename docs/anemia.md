@@ -4,7 +4,7 @@
 
 # Anemia
 
-- [[ineffective erythropoiesis]]
+- [[ineffective erythropoiesis]], [[Hemeonc]]
 
 ## Microcytic anemia
 

@@ -20,6 +20,10 @@
 - [[heparin induced thrombocytopenia]]
 - [[disseminated intravascular coagulation]]
 - [[TTP]]
+- [[blood smear]]
+- [[polycythemia vera]]
+- [[essential thrombocytosis]]
+- [[anemia lecture]]
 
 ## Oncology
 
